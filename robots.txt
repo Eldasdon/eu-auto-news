@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://eldasdon.github.io/eu-auto-news/sitemap.xml
