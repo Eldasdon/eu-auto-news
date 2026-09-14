@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutoWire Europa — Noticias del sector del automóvil</title>
+<meta name="description" content="Resumen diario de noticias del sector del automóvil: lanzamientos, fabricación, ventas, mercado y estadísticas de Europa, con novedades de EE.UU., Latinoamérica y Asia.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚗</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+<meta property="og:title" content="AutoWire Europa — Noticias del sector del automóvil">
+<meta property="og:description" content="Lanzamientos, fabricación, ventas y estadísticas del automóvil en Europa, con novedades de EE.UU., Latinoamérica y Asia.">
+<meta property="og:type" content="website">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="./">AutoWire <span>Europa</span></a>
+    <nav class="filters" id="filters" aria-label="Categorías">
+      <button class="chip active" data-cat="all">Todo</button>
+      <button class="chip" data-cat="lanzamientos">Lanzamientos</button>
+      <button class="chip" data-cat="manufactura">Manufactura</button>
+      <button class="chip" data-cat="mercado">Mercado y acciones</button>
+      <button class="chip" data-cat="ventas">Ventas</button>
+      <button class="chip" data-cat="estadisticas">Estadísticas</button>
+      <button class="chip" data-cat="asia">Asia</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="updated-line">Última actualización: <span id="updated-at">—</span></p>
+  <section id="articles" class="grid" aria-live="polite"></section>
+  <p id="empty-msg" class="empty-msg" hidden>No hay noticias en esta categoría todavía.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>AutoWire Europa recopila y resume noticias públicas del sector del automóvil. Cada resumen es una redacción propia y enlaza a la fuente original al final del artículo, donde puedes leer la cobertura completa.</p>
+    <p class="footer-links"><a href="about.html">Sobre este sitio</a> · <a href="privacy.html">Privacidad</a> · <a href="mailto:contacto@example.com">Contacto</a></p>
+    <p class="copyright">© <span id="year"></span> AutoWire Europa</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
