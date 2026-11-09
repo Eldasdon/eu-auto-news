@@ -1,106 +1,59 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-09T18:17:25Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
-      "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
-    },
-    {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
+      "id": "honda-fabricacion-europa-2026-11",
+      "title": "Honda se abre a volver a fabricar coches en Europa ante las nuevas reglas de la UE",
+      "summary": "Honda, que cerró sus plantas europeas en 2021, estudia retomar la producción en el continente si entra en vigor la normativa comunitaria que privilegiará a los vehículos fabricados localmente. El presidente de Honda Motor Europe reconoció que las ventas actuales de la marca no justifican una fábrica propia, aunque no descartó fabricar en instalaciones de otro constructor. Toyota ha expresado preocupaciones similares ante la propuesta, que aún debe ser aprobada por el Parlamento Europeo y los Estados miembros.",
       "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/honda-fabricacion-europa-2026117441.html",
+      "publishedAt": "2026-11-04T10:00:00Z"
     },
     {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "ferrari-resultados-tercer-trimestre-2026-10",
+      "title": "Ferrari eleva un 13% su beneficio en el tercer trimestre y vuelve a subir sus previsiones para 2026",
+      "summary": "Ferrari cerró el tercer trimestre con un beneficio neto de 431 millones de euros, un 13% más que un año antes, y unos ingresos de 1.896 millones, un 7% superiores. Las entregas se mantuvieron estables en 3.368 unidades, mientras el margen operativo mejoró hasta el 29,7%. La marca italiana volvió a elevar su previsión de ingresos para el conjunto de 2026, hasta unos 7.650 millones de euros, apoyada en una mayor personalización de sus modelos.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "Il Sole 24 Ore",
+      "sourceUrl": "https://en.ilsole24ore.com/art/ferrari-13-per-cent-431-million-profit-in-the-third-quarter-7-per-cent-1896-million-revenue-AJ6hu32B",
+      "publishedAt": "2026-11-03T13:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
+      "id": "xiaomi-entregas-record-octubre-2026",
+      "title": "Xiaomi roza las 50.000 entregas en octubre, su mejor mes del año, pero sigue lejos de su objetivo anual",
+      "summary": "La división de coches eléctricos de Xiaomi superó las 50.000 entregas en octubre, su cifra mensual más alta de 2026 y el fin de dos meses consecutivos de caídas interanuales. Con ello, el fabricante chino acumula en torno a 336.000 unidades entregadas entre enero y octubre, apenas el 61% de su objetivo de 550.000 vehículos para el año. La marca necesitará duplicar su ritmo mensual en noviembre y diciembre para alcanzarlo.",
+      "category": "asia",
+      "sourceName": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/11/01/xiaomi-auto-delivers-over-50000-oct-2026/",
+      "publishedAt": "2026-11-01T00:00:00Z"
+    },
+    {
+      "id": "gwm-planta-bulgaria-ora5-2026-10",
+      "title": "Great Wall Motor fabricará el Ora 5 en Bulgaria, su primer paso industrial en Europa",
+      "summary": "El fabricante chino Great Wall Motor anunció que construirá su SUV compacto eléctrico Ora 5 en una planta en Bulgaria, dentro de su plan de levantar parques industriales integrados en Europa para vehículos y componentes. La compañía no precisó el volumen de producción previsto en esa fábrica, aunque mantiene el objetivo de alcanzar unas 300.000 unidades anuales en el continente hacia 2029. España y Hungría habían figurado antes entre los emplazamientos candidatos para su primera planta europea.",
+      "category": "manufactura",
+      "sourceName": "TimesLIVE",
+      "sourceUrl": "https://www.timeslive.co.za/motoring/2026-10-27-gwm-to-build-ora-5-compact-suv-in-bulgaria/",
+      "publishedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "id": "chile-ventas-octubre-2026",
+      "title": "El mercado chileno de autos crece un 17,7% en octubre, con los SUV como motor",
+      "summary": "Chile matriculó 27.687 vehículos livianos y medianos nuevos en octubre, un 17,7% más que un año antes, según datos de la Asociación Nacional Automotriz (ANAC). Los SUV concentraron la mayor parte de las ventas del mes, con 14.681 unidades. El mercado de vehículos usados, en cambio, retrocedió un 7% en octubre, aunque acumula un alza del 3% en lo que va de 2026.",
       "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
+      "sourceName": "The Clinic",
+      "sourceUrl": "https://www.theclinic.cl/2026/11/06/mercado-automotor-chile-ventas-octubre-2026-resultados-anac/",
+      "publishedAt": "2026-11-06T00:00:00Z"
     },
     {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
+      "id": "eeuu-ventas-vehiculos-octubre-2026",
+      "title": "Las ventas de coches nuevos en EE. UU. caen ligeramente en octubre pese al buen ritmo del año",
+      "summary": "El ritmo anualizado de ventas de vehículos ligeros en Estados Unidos se situó en 15,54 millones de unidades en octubre, un 0,9% menos que un año antes, según datos de la patronal de concesionarios NADA. En lo acumulado del año, el ritmo medio es de 16,05 millones, un 1,8% por debajo de 2025. Los eléctricos de batería representan solo el 6,2% de las ventas en lo que va de año, 2,1 puntos menos que en el mismo periodo anterior.",
       "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
-      "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "NADA",
+      "sourceUrl": "https://www.nada.org/nada/nada-headlines/nada-market-beat-october-saar-highest-6-months",
+      "publishedAt": "2026-11-05T14:00:00Z"
     }
   ]
 }
