@@ -1,106 +1,50 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-10T06:30:00Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
-      "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
-    },
-    {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
+      "id": "ford-geely-valencia-manufactura-2026-11",
+      "title": "Ford y Geely avanzan en su alianza para fabricar coches en la planta de Valencia",
+      "summary": "Ford y el fabricante chino Geely siguen perfilando la empresa conjunta anunciada para la planta de Almussafes, con la que prevén fabricar hasta cuatro modelos nuevos -incluidos SUV eléctricos- a partir de 2028, además del Kuga que ya se produce allí. La operación, pendiente de aprobaciones regulatorias, daría a Ford el 66% del capital conjunto y a Geely el resto, mientras los sindicatos reclaman mayor valor añadido industrial para la fábrica y la participación de proveedores españoles.",
       "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
+      "sourceName": "Foro Coches Eléctricos",
+      "sourceUrl": "https://forococheselectricos.com/noticias/ford-geely-alianza-valencia-suv-electricos-2028-20261109-42729.html",
+      "publishedAt": "2026-11-09T10:00:00Z"
     },
     {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
+      "id": "stellantis-baterias-lfp-2027-2026-11",
+      "title": "Stellantis confirma el cambio a baterías LFP en gran parte de sus eléctricos desde 2027",
+      "summary": "El consejero delegado de Stellantis, Antonio Filosa, confirmó que buena parte de los eléctricos europeos del grupo -que agrupa marcas como Peugeot, Fiat, Citroën y Opel- sustituirán sus baterías de litio-níquel-manganeso por células de litio-ferrofosfato, más baratas, a partir de 2027. El Fiat 500e y el futuro Peugeot 208 sobre la plataforma STLA One figuran entre los primeros candidatos, con el objetivo de abaratar hasta un 20% el coste de los eléctricos más asequibles. La gigafactoría de baterías que Stellantis construye con CATL en Figueruelas (Zaragoza), de 4.100 millones de euros, todavía no suministrará celdas para esos primeros modelos.",
       "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
+      "sourceName": "motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/stellantis-electricos-baterias-lfp-2026117349.html",
+      "publishedAt": "2026-11-09T09:00:00Z"
     },
     {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
-      "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "id": "nissan-frontier-phev-ecuador-2026-11",
+      "title": "Nissan presenta en Ecuador su primera pickup híbrida enchufable, la Frontier PHEV",
+      "summary": "Nissan mostró en la feria Automundo de Quito, a través de su representante AYASA, la nueva Frontier PHEV, la primera camioneta de la marca con tecnología híbrida enchufable. Según la marca, el modelo combina una potencia conjunta de 350 CV con hasta 75 km de autonomía en modo eléctrico, e incorpora suspensión inteligente DiSus y sistemas avanzados de asistencia a la conducción. Nissan Ecuador no ha confirmado todavía precio ni fecha de llegada al mercado.",
+      "category": "lanzamientos",
+      "sourceName": "Metro Ecuador",
+      "sourceUrl": "https://metroecuador.com.ec/empresarial/2026/11/09/nissan-presento-en-automundo-a-la-nueva-frontier-phev-su-primera-camioneta-hibrida-enchufable",
+      "publishedAt": "2026-11-09T12:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
+      "id": "nissan-pixo-precios-alemania-2026-11",
+      "title": "Nissan desvela los precios del Pixo eléctrico en Alemania, a la sombra del Renault Twingo",
+      "summary": "Nissan ha confirmado los precios en Alemania de su nuevo Pixo eléctrico, un utilitario urbano hermano del Renault Twingo E-Tech con el que compartirá plataforma y fábrica en Novo Mesto (Eslovenia). El acabado de acceso, Engage, arranca en 19.990 euros, mientras que las versiones Advance y Evolve llegan a 21.290 y 22.690 euros, todas con un único motor eléctrico de 82 CV y una batería LFP de 27,5 kWh que homologa 259 km de autonomía WLTP. Nissan aún no ha anunciado el precio para España, donde las primeras entregas se esperan a comienzos de 2027.",
+      "category": "lanzamientos",
+      "sourceName": "motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/nissan-pixo-2027-precio-alemania-2026117439.html",
+      "publishedAt": "2026-11-08T11:00:00Z"
     },
     {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
-      "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
-      "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "id": "kia-gwangju-planta-electrica-2026-11",
+      "title": "Kia invertirá 3 billones de wones en una planta de eléctricos en Gwangju",
+      "summary": "Kia anunció una inversión de unos 2.210 millones de dólares (3 billones de wones) para transformar su complejo de AutoLand Gwangju, en Corea del Sur, en una base de producción centrada en vehículos eléctricos y conectados, más allá de los modelos de combustión que fabrica hoy. La compañía firmó además un memorando con el gobierno regional y dos centros de investigación para desarrollar un ecosistema de movilidad en la zona, con el que su consejero delegado, Song Ho-sung, espera acelerar la comercialización de vehículos definidos por software.",
+      "category": "manufactura",
+      "sourceName": "The Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10929031",
+      "publishedAt": "2026-11-06T08:00:00Z"
     }
   ]
 }
