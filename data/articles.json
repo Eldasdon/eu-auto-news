@@ -1,106 +1,50 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-12T18:17:00Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
+      "id": "polestar-formula-2030-concept-2026-11",
+      "title": "Polestar desvela el concept Formula 2030, adelanto de sus próximos modelos",
+      "summary": "Polestar ha presentado el Formula 2030, un concept de carrocería baja y cuatro puertas que anticipa el lenguaje de diseño de la próxima generación del Polestar 2 y del futuro Polestar 7. El prototipo incorpora faros de doble lama, puertas traseras sin pilar B y una pantalla curva de 20 pulgadas integrada en la columna de dirección. La marca, de capital sueco y chino, lo presenta como guía de diseño para modelos futuros y no como un vehículo de producción inminente.",
       "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/10/polestar-formula-2030-concept-unveiled-next-polestar-2/",
+      "publishedAt": "2026-11-10T12:00:00Z"
     },
     {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
+      "id": "honda-ohio-planta-hibridos-2026-11",
+      "title": "Honda construirá una planta de 3.000 millones de dólares en Ohio para fabricar híbridos",
+      "summary": "Honda ha anunciado una inversión de 3.000 millones de dólares para levantar una nueva fábrica de automóviles en el centro de Ohio dedicada a modelos híbridos, con capacidad para 240.000 vehículos anuales. La planta se ubicará entre sus instalaciones ya existentes de East Liberty y Marysville, generará más de 2.000 empleos y comenzará a producir en 2029. La compañía también ampliará sus plantas de motores y transmisiones del estado ante el crecimiento de la demanda de híbridos en Estados Unidos.",
       "category": "manufactura",
       "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
+      "sourceUrl": "https://www.automotiveworld.com/news/honda-to-build-us3bn-ohio-plant-as-hybrid-demand-grows/",
+      "publishedAt": "2026-11-09T14:00:00Z"
     },
     {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
+      "id": "tesla-berlin-centro-ingenieria-2026-11",
+      "title": "Tesla abre un nuevo centro de ingeniería junto a su Gigafactory de Berlín",
+      "summary": "Tesla ha inaugurado un centro de ingeniería en el distrito berlinés de Köpenick, a unos 30 minutos de su Gigafactory de Berlín-Brandeburgo. La instalación agrupa en un único campus cuatro sedes de ingeniería que antes operaban por separado y treinta laboratorios dedicados a materiales, baterías y pruebas de seguridad, con capacidad inicial para unos 250 ingenieros y técnicos. La apertura llega mientras la compañía estudia ampliar la capacidad de producción de la planta alemana.",
       "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/05/new-tesla-engineering-centre-opens-in-berlin-kopenick",
+      "publishedAt": "2026-11-05T09:00:00Z"
     },
     {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
-      "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "id": "mercedes-glc-electrico-india-2026-11",
+      "title": "Mercedes-Benz empieza a ensamblar el GLC eléctrico en la India",
+      "summary": "Mercedes-Benz ha iniciado el montaje local del GLC eléctrico en su planta de Chakan, cerca de Pune, y lo ha puesto a la venta en la India con un precio de partida de 78,5 lakh de rupias. El modelo se ofrece únicamente en la variante 400 4Matic, con batería de 94 kWh y una autonomía homologada WLTP cercana a los 715 km. Las primeras entregas a clientes comienzan a mediados de noviembre, apenas seis meses después de su debut en Europa.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/05/mercedes-benz-starts-assembling-electric-glc-in-india",
+      "publishedAt": "2026-11-05T09:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
-    },
-    {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
+      "id": "dinamarca-matriculaciones-octubre-2026",
+      "title": "Dinamarca matricula un 17% más de coches en octubre, con los eléctricos como motor de las ventas",
+      "summary": "Dinamarca matriculó 18.875 turismos nuevos en octubre, un 16,9% más que un año antes, impulsada por la demanda de coches eléctricos antes de que suban los impuestos que los gravan a partir de 2027. En lo que va de año las matriculaciones acumulan 170.640 unidades, un 13,6% más que en el mismo periodo de 2025. Entre los compradores particulares, el 97,6% de los coches nuevos adquiridos en octubre fueron eléctricos, la mayor proporción registrada hasta ahora en ese segmento del mercado danés.",
       "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
-      "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "Mobility Denmark (Ritzau)",
+      "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15258102/oktobers-bilsalg-var-gront-men-rundt-om-hjornet-venter-hojere-afgifter?lang=da",
+      "publishedAt": "2026-11-01T05:37:00Z"
     }
   ]
 }
