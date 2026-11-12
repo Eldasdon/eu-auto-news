@@ -1,106 +1,59 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-12T06:17:00Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
-      "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
-    },
-    {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
-      "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "tata-iveco-fusion-2026-11",
+      "title": "Tata Motors culmina la compra de Iveco y crea un gigante del vehículo comercial",
+      "summary": "Tata Motors ha completado la adquisición de Iveco Group tras hacerse con el 89,4% de sus acciones por unos 3.430 millones de euros. La nueva matriz, presentada formalmente en Turín, mantendrá la sede de Iveco en la ciudad italiana y sigue avanzando hacia la retirada de bolsa del fabricante de camiones. El negocio de defensa de Iveco quedó fuera de la operación, tras haber sido vendido previamente a Leonardo.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/03/commercial-vehicle-manufacturer-iveco-now-officially-part-of-tata-motors",
+      "publishedAt": "2026-11-03T10:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
-    },
-    {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
-      "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
+      "id": "eurocamara-flexibiliza-veto-2035-2026-11",
+      "title": "Las comisiones de la Eurocámara respaldan suavizar el veto a los motores de combustión en 2035",
+      "summary": "Las comisiones de Medio Ambiente, Transportes y Mercado Interior del Parlamento Europeo votaron a favor de flexibilizar el objetivo de cero emisiones para 2035, permitiendo que ciertos motores de combustión que usen combustibles renovables sigan matriculándose. El texto, aprobado con 48 votos a favor, 30 en contra y 2 abstenciones, rebaja la exigencia de reducción de CO2 a una media del 87,5% en lugar del 100% previsto inicialmente. La propuesta debe ser ratificada por el pleno de la Eurocámara en diciembre antes de iniciar las negociaciones finales con el Consejo.",
       "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "Euronews",
+      "sourceUrl": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets",
+      "publishedAt": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "vw-id-golf-pausa-desarrollo-2026-11",
+      "title": "Volkswagen pausa el desarrollo del ID. Golf eléctrico por la presión de costes",
+      "summary": "Volkswagen ha detenido temporalmente el desarrollo del ID. Golf eléctrico en Wolfsburgo tras registrar su mayor pérdida trimestral en más de una década, de unos 5.920 millones de euros. La compañía insiste en que la pausa es provisional y que el modelo seguirá fabricándose en Wolfsburgo una vez se asegure la financiación necesaria. Un portavoz ha señalado que el trabajo podría reanudarse a partir de 2027, aunque no se ha confirmado ninguna fecha concreta.",
+      "category": "manufactura",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/id-golf-volkswagen-desarrollo-2027-2026117433.html",
+      "publishedAt": "2026-11-04T10:00:00Z"
+    },
+    {
+      "id": "abt-audi-rs5r-720cv-2026-11",
+      "title": "ABT convierte el Audi RS 5 Avant en un familiar de 720 CV con solo 130 unidades",
+      "summary": "El preparador alemán ABT ha presentado el RS5-R, una versión reforzada del Audi RS 5 Avant híbrido enchufable que eleva su potencia hasta los 720 CV y 905 Nm gracias a una reprogramación del motor V6 de gasolina, sin tocar el motor eléctrico. La producción se limita a 130 unidades entre berlina y familiar, con un kit que cuesta unos 65.000 euros sin incluir el coche base. ABT ya prepara una segunda fase para 2027 que llevaría la potencia hasta los 800 CV.",
+      "category": "lanzamientos",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/abt-audi-rs5r-v6-phev-2026117437.html",
+      "publishedAt": "2026-11-04T15:00:00Z"
+    },
+    {
+      "id": "japon-ventas-octubre-2026",
+      "title": "El mercado japonés de coches cae un 3,4% en octubre",
+      "summary": "Las matriculaciones de vehículos nuevos en Japón bajaron un 3,4% interanual en octubre, hasta 381.756 unidades, según datos de la asociación JAMA recogidos por Just Auto. Los turismos ligeros retrocedieron cerca de un 3%, mientras que camiones, autobuses y autocares registraron subidas notables en el mismo mes. En el acumulado de los diez primeros meses del año, el mercado japonés cae un 1,5%.",
+      "category": "asia",
+      "sourceName": "Just Auto",
+      "sourceUrl": "https://www.just-auto.com/newsletters/japan-vehicle-sales-fall-3-in-october",
+      "publishedAt": "2026-11-09T08:00:00Z"
+    },
+    {
+      "id": "renault-twingo-electrico-26000-2026-11",
+      "title": "El Renault Twingo eléctrico supera las 26.000 unidades vendidas y lidera su segmento en Europa",
+      "summary": "El nuevo Renault Twingo E-Tech Electric ha superado las 26.000 unidades vendidas desde su lanzamiento, lo que le convierte en el eléctrico más vendido de su categoría en Europa durante el tercer trimestre de 2026. El modelo, con batería de 27,5 kWh y hasta 263 km de autonomía WLTP, se beneficia de las ayudas del plan de incentivos español, que rebajan su precio de acceso hasta los 13.413 euros. Las ventas de eléctricos del Grupo Renault crecieron un 84,7% en el tercer trimestre, con el Twingo y el Renault 5 como principales impulsores.",
+      "category": "ventas",
+      "sourceName": "Diario Motor",
+      "sourceUrl": "https://www.diariomotor.com/noticia/ventas-renault-twingo-2026/",
+      "publishedAt": "2026-11-01T09:00:00Z"
     }
   ]
 }
