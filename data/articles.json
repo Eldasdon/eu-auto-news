@@ -1,106 +1,41 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-13T06:30:00Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
+      "id": "toyota-scion-kei01-eeuu-2026-11",
+      "title": "Toyota revive la marca Scion en EE. UU. con un microcoche de carga, el KEI-01",
+      "summary": "Toyota presentó el 9 de noviembre, en actos simultáneos en Michigan y Texas, la recuperación de la marca Scion, retirada en 2016, bajo el nombre \"Scion by Toyota\". Su primer modelo, el KEI-01, es una furgoneta ultracompacta de estilo japonés \"kei car\", derivada del Daihatsu Hijet, pensada para flotas comerciales, pequeños negocios, ayuntamientos y explotaciones agrícolas. Se fabricará en la planta de Toyota en Indiana y llegará al mercado en la segunda mitad de 2027 a través de una red reducida de concesionarios especializados.",
       "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
+      "sourceName": "Toyota Pressroom",
+      "sourceUrl": "https://pressroom.toyota.com/?p=123015",
+      "publishedAt": "2026-11-10T16:00:00Z"
     },
     {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
+      "id": "china-nev-exportaciones-octubre-2026",
+      "title": "Las exportaciones chinas de coches electrificados se disparan un 145% en octubre",
+      "summary": "China exportó 582.000 vehículos eléctricos e híbridos enchufables en octubre de 2026, un 145% más que un año antes, según datos de la Asociación de Turismos de China (CPCA), con las exportaciones acercándose al 63% de todas las salidas de coches de pasajeros del país. En paralelo, las ventas minoristas de estos vehículos dentro de China encadenaron su décimo mes consecutivo de caída interanual, lo que refleja una demanda interna más débil y empuja a los fabricantes chinos a priorizar los mercados exteriores.",
+      "category": "asia",
+      "sourceName": "ChinaEVHome",
+      "sourceUrl": "https://chinaevhome.com/2026/11/09/chinas-october-nev-exports-jump-144-7-as-passenger-car-retail-sales-fall-27-1/",
+      "publishedAt": "2026-11-09T08:00:00Z"
+    },
+    {
+      "id": "volvo-reino-unido-40-series-2026-11",
+      "title": "Volvo renueva en Reino Unido su gama compacta EX40, EC40 y XC40",
+      "summary": "Volvo Car UK abrió el 10 de noviembre los pedidos de la gama \"40\" actualizada, que incluye los eléctricos EX40 y EC40 y el XC40 de combustión, con cambios de equipamiento, tecnología y precio pensados para el mercado británico. La renovación busca mantener el impulso comercial de estos compactos frente a la creciente competencia de otras marcas europeas y chinas en ese segmento.",
       "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
+      "sourceName": "The EV Report",
+      "sourceUrl": "https://theevreport.com/volvo-ex40-ec40-xc40-refresh-uk-orders-pricing",
+      "publishedAt": "2026-11-10T10:00:00Z"
     },
     {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
-      "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "aston-martin-resultados-tercer-trimestre-2026-11",
+      "title": "Aston Martin reduce pérdidas en el tercer trimestre gracias al Valhalla",
+      "summary": "Aston Martin publicó el 2 de noviembre sus resultados del tercer trimestre de 2026: los ingresos crecieron un 36%, hasta 388,7 millones de libras, y las pérdidas antes de impuestos se redujeron a 77,1 millones desde 111,9 millones un año antes. El margen bruto mejoró hasta el 37,4% gracias a las entregas del superdeportivo híbrido Valhalla, aunque las ventas de sus modelos principales bajaron un 9%. La compañía mantuvo sin cambios sus previsiones para el conjunto del año.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
-    },
-    {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
-    },
-    {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
-      "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
-      "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "London Stock Exchange (RNS)",
+      "sourceUrl": "https://www.londonstockexchange.com/en/news/article/AML/results-for-q3-and-9-months-ended-30-sept-2026/aa8b-dc-56-2b-f8-4fb6b3",
+      "publishedAt": "2026-11-02T07:00:00Z"
     }
   ]
 }
