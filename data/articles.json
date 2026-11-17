@@ -1,106 +1,59 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-17T06:18:03Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
-      "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
-    },
-    {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
-      "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "toyota-eleva-prevision-beneficio-2026-11",
+      "title": "Toyota eleva un 15% su previsión de beneficio operativo pese a los aranceles de EE. UU.",
+      "summary": "Toyota ha elevado un 15% su previsión de beneficio operativo para el ejercicio fiscal que termina en marzo de 2027, hasta 3,9 billones de yenes, por encima de las estimaciones del mercado. El beneficio operativo del segundo trimestre (julio-septiembre) creció un 34% interanual gracias a la fuerte demanda de sus modelos híbridos, lo que compensó el impacto de los aranceles estadounidenses sobre sus exportaciones. El grupo, no obstante, recortó ligeramente su objetivo de ventas globales para el ejercicio, hasta 10,99 millones de vehículos.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "The Edge Malaysia",
+      "sourceUrl": "https://theedgemalaysia.com/node/824656",
+      "publishedAt": "2026-11-05T00:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
+      "id": "volvo-ex60-torslanda-2027-2026-11",
+      "title": "Volvo presenta el EX60, su nuevo SUV eléctrico con hasta 810 km de autonomía",
+      "summary": "Volvo ha presentado el EX60, un SUV eléctrico de segmento D construido sobre la plataforma SPA3 que también utilizará el futuro Polestar 7. Según datos preliminares homologados bajo el ciclo WLTP, la versión de mayor autonomía podría superar los 800 kilómetros, mientras que la variante de tracción trasera ronda los 620 kilómetros. La producción arrancará en primavera de 2027 en la planta de Torslanda, en Gotemburgo, con un objetivo de unas 250.000 unidades al año.",
+      "category": "lanzamientos",
+      "sourceName": "Híbridos y Eléctricos",
+      "sourceUrl": "https://www.hibridosyelectricos.com/coches/hasta-810-km-250000-coches-ano-volvo-prepara-2027-su-nuevo-suv-electrico-arrasar-en-europa_90468_102.html",
+      "publishedAt": "2026-11-10T00:00:00Z"
     },
     {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
+      "id": "europa-ventas-electricos-octubre-2026-11",
+      "title": "Las ventas de coches eléctricos en Europa crecen un 36% en octubre",
+      "summary": "Las matriculaciones de coches eléctricos en Europa alcanzaron unas 510.000 unidades en octubre, un 36% más que un año antes, según datos de Benchmark Mineral Intelligence recogidos por Electrek. Los modelos cien por cien eléctricos crecieron un 49% interanual, mientras que los híbridos enchufables subieron un 7%, lo que eleva el acumulado del año a 4,5 millones de unidades vendidas en la región. Alemania disparó sus matriculaciones de eléctricos puros casi un 80%, el Reino Unido avanzó un 30% y España creció un 81% hasta superar las 16.000 unidades.",
       "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "publishedAt": "2026-11-11T00:00:00Z"
     },
     {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
+      "id": "tesla-cybertruck-produccion-verano-2027-2026-11",
+      "title": "Tesla amplía la producción del Cybertruck hasta el verano de 2027",
+      "summary": "Tesla ampliará la fabricación del Cybertruck en su planta Giga Texas hasta finales del verano de 2027, según anunció Elon Musk, revirtiendo en parte el plan comunicado días antes de recortar la producción a mediados de 2027 para dejar hueco al Cybercab. El cambio llega tras las quejas de clientes que esperan la entrega de sus pedidos, después de que la compañía ya hubiera simplificado la gama a una única versión, el Cyberbeast, con un precio de partida de 109.990 dólares.",
+      "category": "manufactura",
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+      "publishedAt": "2026-11-11T00:00:00Z"
     },
     {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
+      "id": "mercedes-congela-inversiones-alemania-2026-11",
+      "title": "Mercedes-Benz congela nuevas inversiones en Alemania y no descarta cerrar plantas",
+      "summary": "El consejo de Mercedes-Benz acordó por unanimidad detener cualquier nueva inversión en sus plantas alemanas, según confirmó el responsable de producción, Michael Schiebe. El directivo advirtió de que la actual estructura de costes impide seguir invirtiendo en el país y de que la compañía deberá valorar el cierre de alguna de sus once fábricas alemanas si no logra reducirlos. La decisión llega en medio de unas negociaciones laborales estancadas sobre jornada y salarios, y de la caída de beneficios provocada por el desplome de las ventas de la marca en China.",
+      "category": "manufactura",
+      "sourceName": "Autocosmos",
+      "sourceUrl": "https://noticias.autocosmos.com.mx/2026/11/12/mercedes-benz-frena-inversiones-en-alemania-y-contempla-cerrar-plantas",
+      "publishedAt": "2026-11-12T00:00:00Z"
     },
     {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
+      "id": "vw-anhui-sin-nuevos-electricos-2028-2026-11",
+      "title": "Volkswagen no lanzará nuevos eléctricos en su filial china Anhui hasta 2028",
+      "summary": "Volkswagen ha confirmado que su filial china Anhui, nacida de la alianza con JAC, no incorporará nuevos modelos eléctricos hasta 2028. La planta se dimensionó para una demanda de la gama ID. muy superior a la finalmente registrada, por lo que Volkswagen China se centra ahora en ampliar y optimizar la red de concesionarios del proyecto conjunto. La dirección financiera de la división espera alcanzar el punto de equilibrio en 2030, en un contexto de fuerte caída de las ventas del grupo en el mercado chino.",
       "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://www.electrive.com/2026/11/12/vw-anhui-plant-to-introduce-no-new-ev-models-until-2028/",
+      "publishedAt": "2026-11-12T00:00:00Z"
     }
   ]
 }
