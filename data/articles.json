@@ -1,106 +1,77 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-18T18:16:07Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
+      "id": "vw-golf-gti-concept-teaser-2026-11",
+      "title": "Volkswagen anticipa un concept GTI radical por el 50 aniversario del Golf GTI",
+      "summary": "Volkswagen ha publicado las primeras imágenes de un nuevo concept car de carrocería ancha y gran alerón trasero, pensado para celebrar el 50 aniversario del Golf GTI. La marca ha confirmado que lo presentará oficialmente este fin de semana, coincidiendo con el Salón de Los Ángeles, aunque todavía no ha desvelado su nombre ni si tendrá continuidad en producción. El diseño frontal recuerda al del ID. GTI Concept mostrado en 2023.",
       "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
+      "sourceName": "Autotrader NZ",
+      "sourceUrl": "https://autotrader.co.nz/showroom/volkswagen/volkswagen-teases-wild-golf-for-the-gtis-50th-birthday",
+      "publishedAt": "2026-11-17T00:00:00Z"
     },
     {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
-      "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "ue-reino-unido-aranceles-electricos-aplazamiento-2026-11",
+      "title": "El sector del automóvil pide aplazar dos años los aranceles a los eléctricos entre la UE y Reino Unido",
+      "summary": "El sector del automóvil británico pide a Bruselas y Londres aplazar al menos dos años la entrada en vigor de aranceles del 10% sobre los coches eléctricos que no cumplan las nuevas reglas de origen sobre baterías, previstos para el 1 de enero de 2027. La patronal SMMT advierte de que, sin acuerdo, buena parte de los vehículos eléctricos que se comercian entre la Unión Europea y Reino Unido quedarían gravados, con un coste anual que podría superar los 1.400 millones de libras. Según informaciones de prensa, la Comisión Europea estaría estudiando con el sector una nueva prórroga de la norma.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "TimesLIVE",
+      "sourceUrl": "https://www.timeslive.co.za/motoring/2026-11-12-eu-may-delay-10-tariff-on-uk-electric-cars-report/",
+      "publishedAt": "2026-11-12T00:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
+      "id": "hongqi-stellantis-vw-zaragoza-2026-11",
+      "title": "La china Hongqi busca a Stellantis y Volkswagen para fabricar en Europa sin plantas propias",
+      "summary": "La marca china de lujo Hongqi, respaldada por el grupo estatal FAW, estudia alianzas con Stellantis y Volkswagen para fabricar sus coches en Europa sin construir instalaciones propias. Las conversaciones se centran en aprovechar la capacidad sobrante de fábricas europeas ya existentes, como la planta de Stellantis en Zaragoza, donde Leapmotor va a empezar a producir en breve. Hongqi aspira a lanzar más de una docena de modelos eléctricos e híbridos en el continente antes de 2028.",
+      "category": "manufactura",
+      "sourceName": "BusinessDay",
+      "sourceUrl": "https://www.businessday.co.za/motoring/2026-11-18-hongqi-eyes-stellantis-vw-for-european-production/",
+      "publishedAt": "2026-11-18T00:00:00Z"
     },
     {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
+      "id": "toyota-zarate-tacoma-hibrida-2026-11",
+      "title": "Toyota invertirá cerca de 1.300 millones de dólares en una planta en Argentina para fabricar una pickup híbrida",
+      "summary": "Toyota ha anunciado una inversión próxima a los 1.300 millones de dólares para construir una nueva planta en Zárate, Argentina, donde fabricará una pickup híbrida a partir de 2030. El proyecto arrancará con una capacidad de 50.000 unidades anuales, ampliable en el futuro, y en torno al 70% de la producción se destinará a la exportación hacia Sudamérica, Centroamérica y el Caribe. La compañía ha aclarado que el nuevo modelo convivirá con la Hilux sin sustituirla.",
+      "category": "manufactura",
+      "sourceName": "Noticias NQN",
+      "sourceUrl": "https://www.noticiasnqn.com.ar/noticias/2026/11/16/361038-toyota-fabricara-la-tacoma-hibrida-en-argentina-producira-50000-unidades",
+      "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
-      "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
+      "id": "ford-celdas-bateria-catl-michigan-2026-11",
+      "title": "Ford empieza a fabricar celdas de batería en EE. UU. con tecnología china de CATL",
+      "summary": "Ford ha comenzado a producir celdas de batería en su planta de Marshall, Michigan, utilizando tecnología de litio-ferrofosfato licenciada de la china CATL. La producción, aún en fase de certificación de procesos, abastecerá inicialmente a prototipos de la futura pickup eléctrica compacta Fathom, prevista para el último tramo de 2027. El uso de tecnología china en suelo estadounidense ha generado críticas de varios legisladores.",
+      "category": "manufactura",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "publishedAt": "2026-11-18T00:00:00Z"
     },
     {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
+      "id": "vw-id-era-5x-china-2026-11",
+      "title": "Volkswagen estrena en China el ID. ERA 5X, su primer eléctrico con arquitectura íntegramente local",
+      "summary": "SAIC Volkswagen ha lanzado en China el ID. ERA 5X, un SUV eléctrico compacto que combina por primera vez la plataforma CMP desarrollada para el mercado chino con una nueva arquitectura electrónica propia de la marca. El modelo se ofrece con un precio promocional desde unos 99.900 yuanes, equivalentes a unos 14.000 dólares, en cuatro acabados, con un precio habitual de entre 119.900 y 159.900 yuanes. Con él, Volkswagen busca competir directamente con los SUV eléctricos económicos de los fabricantes locales chinos.",
       "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://www.electrive.com/2026/11/13/vw-launches-the-id-era-5x-in-china-with-pricing/",
+      "publishedAt": "2026-11-13T00:00:00Z"
     },
     {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
+      "id": "kia-corea-300000-electrificados-2026-11",
+      "title": "Kia supera las 300.000 ventas de electrificados en Corea del Sur en un solo año, un hito inédito",
+      "summary": "Kia ha superado las 300.000 unidades vendidas de vehículos electrificados en el mercado surcoreano en lo que va de 2026, hasta el 9 de noviembre, lo que la convierte en la primera marca del país en alcanzar esa cifra en un solo año. De ese total, 120.360 fueron eléctricos puros, más del doble que un año antes, y 179.688 híbridos, con un crecimiento cercano al 17%. Los modelos electrificados representan ya alrededor del 60% de las ventas domésticas de la marca.",
       "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
+      "sourceName": "The Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10937386",
+      "publishedAt": "2026-11-16T00:00:00Z"
     },
     {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
-      "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "id": "hyundai-posco-grafito-vietnam-2026-11",
+      "title": "Hyundai estudia entrar en una planta de grafito para baterías de POSCO en Vietnam",
+      "summary": "Hyundai Motor Group estudia tomar una participación de unos 100.000 millones de wones, cerca de 74 millones de dólares, en una planta de ánodos de grafito sintético que POSCO Future M construye en la provincia vietnamita de Thai Nguyen. Ambas compañías firmaron una carta de intenciones a principios de noviembre para definir los términos de la inversión y acordar derechos preferentes de compra de ese material, clave para las baterías de los coches eléctricos. La planta, valorada en unos 357.000 millones de wones, prevé iniciar la producción en 2028.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/13/hyundai-explores-investment-in-posco-graphite-project-in-vietnam",
+      "publishedAt": "2026-11-13T00:00:00Z"
     }
   ]
 }
