@@ -1,106 +1,68 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-21T18:17:44Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
-      "category": "lanzamientos",
-      "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
-    },
-    {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
-      "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
-    },
-    {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
-      "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
-      "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
-    },
-    {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "euro7-entrada-vigor-2026-11",
+      "title": "La norma Euro 7 entra en vigor el 29 de noviembre para los coches nuevos",
+      "summary": "A partir del 29 de noviembre de 2026 los turismos y furgonetas que se homologuen por primera vez en la UE deberán cumplir la normativa Euro 7, que añade límites inéditos a las partículas de frenos y neumáticos y exige mayor durabilidad de baterías. La norma no es retroactiva: los coches ya matriculados no se ven afectados, y su aplicación a todo el mercado no llegará hasta el 29 de noviembre de 2027.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/actualidad/euro-7-regule-emisiones-no-significa-electrico-contamine-mas-2026117686.html",
+      "publishedAt": "2026-11-20T09:00:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
-    },
-    {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
-    },
-    {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
-      "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
-    },
-    {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
+      "id": "ford-farley-5-millones-2032",
+      "title": "Ford se marca el objetivo de vender 5 millones de coches al año en 2032",
+      "summary": "El consejero delegado de Ford, Jim Farley, planteó a la plantilla un objetivo de ventas anuales de 5 millones de vehículos para 2032, un 20% más que el volumen actual, según fuentes citadas por The Wall Street Journal. La meta se apoya en el lanzamiento de varios modelos asequibles por debajo de 40.000 dólares, entre ellos la futura pickup eléctrica Fathom, en un momento en que las entregas globales de la marca caen.",
       "category": "mercado",
-      "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceName": "Ford Authority",
+      "sourceUrl": "https://fordauthority.com/2026/11/ford-ceo-jim-farley-aiming-for-double-digit-sales-jump-by-2032/",
+      "publishedAt": "2026-11-20T08:00:00Z"
+    },
+    {
+      "id": "voyah-dream9-tailandia-2026-11",
+      "title": "Voyah, la marca premium de Dongfeng, debuta en Tailandia con el Dream 9",
+      "summary": "AI Mobility, filial del grupo AAS, presentó formalmente el 20 de noviembre la marca china Voyah en Tailandia, con el monovolumen de lujo Dream 9 como modelo principal en versiones eléctrica e híbrida enchufable. Las ventas comenzarán el 1 de diciembre en dos concesionarios de Bangkok, con precios estimados entre 2,59 y 3 millones de bahts y ocho años de garantía de batería.",
+      "category": "asia",
+      "sourceName": "The Nation Thailand",
+      "sourceUrl": "https://www.nationthailand.com/business/40072827",
+      "publishedAt": "2026-11-20T07:00:00Z"
+    },
+    {
+      "id": "mercedes-eqe-eqs-suv-fin-2026-11",
+      "title": "Mercedes-Benz retira la configuración personalizada del EQE y allana el fin de su producción",
+      "summary": "Mercedes-Benz ha dejado de admitir pedidos configurables del EQE berlina, el EQE SUV y el EQS SUV en su configurador alemán, de forma que los compradores solo pueden elegir entre las unidades ya fabricadas. La marca no prevé actualizaciones técnicas para estas series, lo que apunta al fin próximo de su producción, mientras prepara sus sucesores eléctricos basados en el Clase C y el GLC.",
+      "category": "manufactura",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/10/mercedes-discontinues-eqe-eqe-suv-and-eqs-suv",
+      "publishedAt": "2026-11-10T11:00:00Z"
+    },
+    {
+      "id": "byd-espana-segunda-planta-2026-11",
+      "title": "BYD mantiene a España entre los candidatos a su segunda fábrica europea",
+      "summary": "La vicepresidenta de BYD, Stella Li, confirmó que España sigue en la lista preseleccionada para la segunda planta de fabricación del grupo chino en Europa, aunque sin fecha ni ubicación decidida. La compañía da prioridad a la fábrica de Szeged, en Hungría, que arrancará antes de que termine el año, y prefiere adquirir una planta ya existente antes que construir una nueva.",
+      "category": "mercado",
+      "sourceName": "Movilidad Eléctrica",
+      "sourceUrl": "https://movilidadelectrica.com/segunda-fabrica-byd-europa/",
+      "publishedAt": "2026-11-12T10:00:00Z"
+    },
+    {
+      "id": "tesla-cybercab-venta-privada-2026-11",
+      "title": "Tesla abre la venta privada del Cybercab en EE. UU. con fuertes restricciones",
+      "summary": "Tesla ha empezado a vender su robotaxi Cybercab, sin volante ni pedales, a compradores particulares en cinco ciudades de Texas por 29.990 dólares, más una suscripción mensual de 299 dólares para activar la conducción autónoma. El contrato prohíbe usarlo en servicios de VTC o revenderlo sin permiso de Tesla, mientras la NHTSA sigue revisando si el vehículo cumple los estándares de seguridad federales al carecer de controles manuales.",
+      "category": "lanzamientos",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/16/tesla-cybercab-for-private-sale-comes-without-steering-wheel-but-with-restrictions",
+      "publishedAt": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "catl-intercambio-baterias-2026-11",
+      "title": "CATL aspira a liderar el intercambio de baterías en coches de pasajeros hacia 2027",
+      "summary": "El gigante chino de baterías CATL planea ampliar su red de estaciones de intercambio Choco-SEB a 297 ciudades en 2027, apoyado en un acuerdo con BAIC para fabricar más modelos compatibles. La compañía, que ya domina el intercambio de baterías en camiones en China, busca así adelantar a Nio, que actualmente opera más de 4.200 estaciones para coches de pasajeros.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/16/catl-to-become-market-leader-in-passenger-car-battery-swapping",
+      "publishedAt": "2026-11-16T13:00:00Z"
     }
   ]
 }
