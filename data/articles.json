@@ -1,106 +1,608 @@
 {
-  "updatedAt": "2026-09-14T18:00:00Z",
+  "updatedAt": "2026-11-26T06:20:45Z",
   "articles": [
     {
-      "id": "kia-vw-lanzamientos-2026-09",
-      "title": "Kia y Volkswagen refuerzan su gama eléctrica y familiar para el cierre de 2026",
-      "summary": "Kia incorpora en Europa el K4 Sportswagon, versión familiar de su compacto coreano, junto a una actualización del Niro. Volkswagen suma el ID.Polo, un utilitario eléctrico con el diseño de su homólogo de combustión. Ambos lanzamientos llegan antes del Salón de París, que se celebra del 12 al 18 de octubre.",
+      "id": "stellantis-canada-demanda-brampton-2026-11",
+      "title": "Canadá amenaza con demandar a Stellantis por la venta de su planta de Brampton",
+      "summary": "El Gobierno de Canadá notificó formalmente a Stellantis un incumplimiento de los acuerdos de ayuda pública ligados a sus plantas de Brampton y Windsor, y advirtió que presentará una demanda si la empresa no corrige la situación en 30 días. El conflicto se originó cuando Stellantis trasladó la producción del Jeep Compass a una planta de Illinois y acordó vender la fábrica de Brampton, que había quedado inactiva. Stellantis Canadá ofreció devolver 24 millones de dólares de las ayudas recibidas, una cifra muy inferior a la que reclama Ottawa.",
+      "category": "mercado",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+      "publishedAt": "2026-11-13T10:00:00Z"
+    },
+    {
+      "id": "nissan-nx7-china-preventa-2026-11",
+      "title": "Nissan abre la preventa de su nuevo SUV híbrido enchufable NX7 en China",
+      "summary": "Dongfeng Nissan inició el 13 de noviembre la preventa del NX7, el cuarto modelo de su gama N para el mercado chino, con tres acabados de entre 129.900 y 149.900 yuanes (unos 18.000 a 21.000 dólares). El SUV híbrido enchufable ofrece hasta 320 km de autonomía en modo eléctrico y 1.666 km de autonomía combinada, y apunta a un público joven en competencia directa con el BYD Song Ultra. El precio y la configuración definitivos se confirmarán en su lanzamiento oficial durante el Salón del Automóvil de Cantón, el 27 de noviembre.",
+      "category": "asia",
+      "sourceName": "CarNewsChina",
+      "sourceUrl": "https://carnewschina.com/2026/11/13/nissan-opens-pre-sales-for-nx7-phev-in-china-with-320-km-ev-range-1666-km-combined/",
+      "publishedAt": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "mercedes-congela-inversiones-alemania-2026-11",
+      "title": "Mercedes-Benz congela nuevas inversiones en Alemania y no descarta cerrar plantas",
+      "summary": "El consejo de Mercedes-Benz acordó por unanimidad detener cualquier nueva inversión en sus plantas alemanas, según confirmó el responsable de producción, Michael Schiebe. El directivo advirtió de que la actual estructura de costes impide seguir invirtiendo en el país y de que la compañía deberá valorar el cierre de alguna de sus once fábricas alemanas si no logra reducirlos. La decisión llega en medio de unas negociaciones laborales estancadas sobre jornada y salarios, y de la caída de beneficios provocada por el desplome de las ventas de la marca en China.",
+      "category": "manufactura",
+      "sourceName": "Autocosmos",
+      "sourceUrl": "https://noticias.autocosmos.com.mx/2026/11/12/mercedes-benz-frena-inversiones-en-alemania-y-contempla-cerrar-plantas",
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "vw-anhui-sin-nuevos-electricos-2028-2026-11",
+      "title": "Volkswagen no lanzará nuevos eléctricos en su filial china Anhui hasta 2028",
+      "summary": "Volkswagen ha confirmado que su filial china Anhui, nacida de la alianza con JAC, no incorporará nuevos modelos eléctricos hasta 2028. La planta se dimensionó para una demanda de la gama ID. muy superior a la finalmente registrada, por lo que Volkswagen China se centra ahora en ampliar y optimizar la red de concesionarios del proyecto conjunto. La dirección financiera de la división espera alcanzar el punto de equilibrio en 2030, en un contexto de fuerte caída de las ventas del grupo en el mercado chino.",
+      "category": "mercado",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://www.electrive.com/2026/11/12/vw-anhui-plant-to-introduce-no-new-ev-models-until-2028/",
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "tesla-giga-berlin-cybercab-2026-11",
+      "title": "Tesla invertirá 3.000 millones de euros para fabricar el Cybercab en Alemania",
+      "summary": "Tesla ha anunciado una ampliación de unos 3.000 millones de euros en su Gigafactory de Berlín-Brandeburgo, en Grünheide, con el objetivo de empezar a construir allí el Cybercab a partir de 2029. El proyecto se ejecutará en tres fases con aprobaciones administrativas independientes, añadiría capacidad para hasta un millón de unidades al año y eleva a unos 10.000 millones de dólares la inversión total de la compañía en la zona.",
+      "category": "manufactura",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/16/tesla-announces-multi-billion-euro-expansion-of-gigafactory-grunheide",
+      "publishedAt": "2026-11-16T10:00:00Z"
+    },
+    {
+      "id": "honda-alabama-hibridos-2026-11",
+      "title": "Honda destina 462 millones de dólares a su planta de Alabama para fabricar más híbridos",
+      "summary": "Honda invertirá 462 millones de dólares en su planta de Lincoln, Alabama, para añadir una línea de motores híbridos V6 y permitir que varios modelos se ensamblen en la misma cadena. La ampliación, anunciada al cumplirse 25 años de producción en la factoría, creará unos 200 empleos y se suma al reciente anuncio de una nueva planta de 3.000 millones de dólares en Ohio, ambas destinadas a responder al aumento de la demanda de híbridos en Estados Unidos.",
+      "category": "manufactura",
+      "sourceName": "Honda Newsroom",
+      "sourceUrl": "https://hondanews.com/en-US/releases/honda-invests-462-million-in-alabama-auto-plant-as-facility-marks-25-years-of-production",
+      "publishedAt": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "scout-motors-carolina-sur-reservas-2026-11",
+      "title": "Scout Motors acumula 212.000 reservas mientras su fábrica en Carolina del Sur entra en su fase final",
+      "summary": "La marca de todoterrenos eléctricos de Volkswagen, Scout Motors, ha alcanzado unas 212.000 reservas para sus modelos Terra y Traveler, según su consejero delegado, Scott Keogh. La planta de 2.000 millones de dólares cerca de Columbia, Carolina del Sur, se encuentra en su fase final de construcción, con la producción completa prevista para 2027 y las primeras entregas a clientes en 2028; alrededor del 87% de las reservas corresponde a las versiones de autonomía extendida.",
+      "category": "manufactura",
+      "sourceName": "Construction Review Online",
+      "sourceUrl": "https://constructionreviewonline.com/scout-motors-nears-completion-of-2bn-south-carolina-plant-with-212000-reservations/",
+      "publishedAt": "2026-11-12T16:00:00Z"
+    },
+    {
+      "id": "vw-id-tiguan-produccion-emden-2026-11",
+      "title": "Volkswagen arranca en Emden la producción en serie del nuevo ID. Tiguan eléctrico",
+      "summary": "El primer ID. Tiguan de serie, en color Olive Bronze Metallic, salió de la línea de montaje de la planta alemana de Emden, que sustituirá así al ID.4 y al ID.5 por un único SUV eléctrico. El modelo utiliza la plataforma MEB+ actualizada, ya puede reservarse en Alemania y otros mercados europeos desde octubre, y las primeras entregas a clientes están previstas para principios de 2027.",
       "category": "lanzamientos",
+      "sourceName": "Volkswagen Newsroom",
+      "sourceUrl": "https://www.volkswagen-newsroom.com/de/pressemitteilungen/volkswagen-werk-emden-start-der-serienfertigung-des-neuen-id-tiguan-20854",
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "vw-golf-gti-concept-teaser-2026-11",
+      "title": "Volkswagen anticipa un concept GTI radical por el 50 aniversario del Golf GTI",
+      "summary": "Volkswagen ha publicado las primeras imágenes de un nuevo concept car de carrocería ancha y gran alerón trasero, pensado para celebrar el 50 aniversario del Golf GTI. La marca ha confirmado que lo presentará oficialmente este fin de semana, coincidiendo con el Salón de Los Ángeles, aunque todavía no ha desvelado su nombre ni si tendrá continuidad en producción. El diseño frontal recuerda al del ID. GTI Concept mostrado en 2023.",
+      "category": "lanzamientos",
+      "sourceName": "Autotrader NZ",
+      "sourceUrl": "https://autotrader.co.nz/showroom/volkswagen/volkswagen-teases-wild-golf-for-the-gtis-50th-birthday",
+      "publishedAt": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "ue-reino-unido-aranceles-electricos-aplazamiento-2026-11",
+      "title": "El sector del automóvil pide aplazar dos años los aranceles a los eléctricos entre la UE y Reino Unido",
+      "summary": "El sector del automóvil británico pide a Bruselas y Londres aplazar al menos dos años la entrada en vigor de aranceles del 10% sobre los coches eléctricos que no cumplan las nuevas reglas de origen sobre baterías, previstos para el 1 de enero de 2027. La patronal SMMT advierte de que, sin acuerdo, buena parte de los vehículos eléctricos que se comercian entre la Unión Europea y Reino Unido quedarían gravados, con un coste anual que podría superar los 1.400 millones de libras. Según informaciones de prensa, la Comisión Europea estaría estudiando con el sector una nueva prórroga de la norma.",
+      "category": "mercado",
+      "sourceName": "TimesLIVE",
+      "sourceUrl": "https://www.timeslive.co.za/motoring/2026-11-12-eu-may-delay-10-tariff-on-uk-electric-cars-report/",
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "hongqi-stellantis-vw-zaragoza-2026-11",
+      "title": "La china Hongqi busca a Stellantis y Volkswagen para fabricar en Europa sin plantas propias",
+      "summary": "La marca china de lujo Hongqi, respaldada por el grupo estatal FAW, estudia alianzas con Stellantis y Volkswagen para fabricar sus coches en Europa sin construir instalaciones propias. Las conversaciones se centran en aprovechar la capacidad sobrante de fábricas europeas ya existentes, como la planta de Stellantis en Zaragoza, donde Leapmotor va a empezar a producir en breve. Hongqi aspira a lanzar más de una docena de modelos eléctricos e híbridos en el continente antes de 2028.",
+      "category": "manufactura",
+      "sourceName": "BusinessDay",
+      "sourceUrl": "https://www.businessday.co.za/motoring/2026-11-18-hongqi-eyes-stellantis-vw-for-european-production/",
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "toyota-zarate-tacoma-hibrida-2026-11",
+      "title": "Toyota invertirá cerca de 1.300 millones de dólares en una planta en Argentina para fabricar una pickup híbrida",
+      "summary": "Toyota ha anunciado una inversión próxima a los 1.300 millones de dólares para construir una nueva planta en Zárate, Argentina, donde fabricará una pickup híbrida a partir de 2030. El proyecto arrancará con una capacidad de 50.000 unidades anuales, ampliable en el futuro, y en torno al 70% de la producción se destinará a la exportación hacia Sudamérica, Centroamérica y el Caribe. La compañía ha aclarado que el nuevo modelo convivirá con la Hilux sin sustituirla.",
+      "category": "manufactura",
+      "sourceName": "Noticias NQN",
+      "sourceUrl": "https://www.noticiasnqn.com.ar/noticias/2026/11/16/361038-toyota-fabricara-la-tacoma-hibrida-en-argentina-producira-50000-unidades",
+      "publishedAt": "2026-11-16T00:00:00Z"
+    },
+    {
+      "id": "ford-celdas-bateria-catl-michigan-2026-11",
+      "title": "Ford empieza a fabricar celdas de batería en EE. UU. con tecnología china de CATL",
+      "summary": "Ford ha comenzado a producir celdas de batería en su planta de Marshall, Michigan, utilizando tecnología de litio-ferrofosfato licenciada de la china CATL. La producción, aún en fase de certificación de procesos, abastecerá inicialmente a prototipos de la futura pickup eléctrica compacta Fathom, prevista para el último tramo de 2027. El uso de tecnología china en suelo estadounidense ha generado críticas de varios legisladores.",
+      "category": "manufactura",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "vw-id-era-5x-china-2026-11",
+      "title": "Volkswagen estrena en China el ID. ERA 5X, su primer eléctrico con arquitectura íntegramente local",
+      "summary": "SAIC Volkswagen ha lanzado en China el ID. ERA 5X, un SUV eléctrico compacto que combina por primera vez la plataforma CMP desarrollada para el mercado chino con una nueva arquitectura electrónica propia de la marca. El modelo se ofrece con un precio promocional desde unos 99.900 yuanes, equivalentes a unos 14.000 dólares, en cuatro acabados, con un precio habitual de entre 119.900 y 159.900 yuanes. Con él, Volkswagen busca competir directamente con los SUV eléctricos económicos de los fabricantes locales chinos.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://www.electrive.com/2026/11/13/vw-launches-the-id-era-5x-in-china-with-pricing/",
+      "publishedAt": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "kia-corea-300000-electrificados-2026-11",
+      "title": "Kia supera las 300.000 ventas de electrificados en Corea del Sur en un solo año, un hito inédito",
+      "summary": "Kia ha superado las 300.000 unidades vendidas de vehículos electrificados en el mercado surcoreano en lo que va de 2026, hasta el 9 de noviembre, lo que la convierte en la primera marca del país en alcanzar esa cifra en un solo año. De ese total, 120.360 fueron eléctricos puros, más del doble que un año antes, y 179.688 híbridos, con un crecimiento cercano al 17%. Los modelos electrificados representan ya alrededor del 60% de las ventas domésticas de la marca.",
+      "category": "asia",
+      "sourceName": "The Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10937386",
+      "publishedAt": "2026-11-16T00:00:00Z"
+    },
+    {
+      "id": "hyundai-posco-grafito-vietnam-2026-11",
+      "title": "Hyundai estudia entrar en una planta de grafito para baterías de POSCO en Vietnam",
+      "summary": "Hyundai Motor Group estudia tomar una participación de unos 100.000 millones de wones, cerca de 74 millones de dólares, en una planta de ánodos de grafito sintético que POSCO Future M construye en la provincia vietnamita de Thai Nguyen. Ambas compañías firmaron una carta de intenciones a principios de noviembre para definir los términos de la inversión y acordar derechos preferentes de compra de ese material, clave para las baterías de los coches eléctricos. La planta, valorada en unos 357.000 millones de wones, prevé iniciar la producción en 2028.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/13/hyundai-explores-investment-in-posco-graphite-project-in-vietnam",
+      "publishedAt": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "china-manufactura-octubre-desaceleracion-2026-11",
+      "title": "La producción industrial del automóvil en China se frena a su ritmo más débil desde 2022",
+      "summary": "El valor añadido de la fabricación de automóviles en China creció solo un 0,9% en octubre, su ritmo más lento desde las disrupciones de la pandemia en 2022, según datos de la Oficina Nacional de Estadística difundidos el 16 de noviembre. La producción total de vehículos cayó en torno a un 8% interanual, mientras que las ventas minoristas de vehículos de nueva energía bajaron por décimo mes consecutivo tras reducirse a la mitad la exención fiscal a su compra para 2026 y 2027.",
+      "category": "asia",
+      "sourceName": "Battery-Tech.net",
+      "sourceUrl": "https://battery-tech.net/battery-markets-news/china-automotive-market-october-slowdown/",
+      "publishedAt": "2026-11-16T00:00:00Z"
+    },
+    {
+      "id": "mercedes-mb-drive-manos-libres-130kmh-2026-11",
+      "title": "Mercedes-Benz ampliará su asistente de conducción manos libres hasta los 130 km/h",
+      "summary": "Mercedes-Benz detalló la próxima generación de su plataforma de asistencia MB.DRIVE, que incluirá un modo que permitirá soltar el volante en autopista hasta 130 km/h cuando el tráfico y la señalización lo permitan, junto a un cambio de carril proactivo y una versión urbana con numerosos sensores integrados. La función comenzará a implementarse en Alemania y Estados Unidos entre finales de 2026 y 2027.",
+      "category": "lanzamientos",
+      "sourceName": "Autocosmos",
+      "sourceUrl": "https://noticias.autocosmos.cl/2026/11/17/mercedes-benz-sigue-avanzando-en-sus-planes-relativos-al-manejo-autonomo",
+      "publishedAt": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "kia-india-segunda-planta-2026-11",
+      "title": "Kia invertirá cerca de 1.800 millones de euros en una segunda planta en India",
+      "summary": "Kia y sus proveedores construirán una nueva fábrica en Andhra Pradesh, próxima a la planta existente de Anantapur, tras firmar un memorando con el gobierno regional el 12 de noviembre. La inversión conjunta elevará la capacidad combinada del fabricante en el país por encima de las 600.000 unidades anuales, con el inicio de producción previsto para 2030.",
+      "category": "manufactura",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/13/kia-to-invest-around-e1-8-billion-in-new-plant-in-india",
+      "publishedAt": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "stellantis-leapmotor-pomigliano-italia-2026-11",
+      "title": "Stellantis ampliará su alianza con Leapmotor a una planta italiana",
+      "summary": "El consejero delegado de Stellantis, Antonio Filosa, anunció en la asamblea de la patronal ANFIA en Milán que la colaboración con el fabricante chino Leapmotor se extenderá a una fábrica en Italia, señalada por la prensa local como la de Pomigliano d'Arco, cerca de Nápoles. El proyecto se vincula a un pequeño vehículo eléctrico de bajo coste cuya producción podría arrancar en 2028.",
+      "category": "manufactura",
+      "sourceName": "Motor1 Italia",
+      "sourceUrl": "https://it.motor1.com/news/815307/stellantis-leapmotor-produzione-auto-italia-pomigliano/",
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "hyundai-elantra-2027-automobility-la-2026-11",
+      "title": "Hyundai presenta el nuevo Elantra 2027 y el Elantra Hybrid 2028 en Los Ángeles",
+      "summary": "Hyundai presentó en la feria AutoMobility LA de Los Ángeles la nueva generación del Elantra, que llegará a Estados Unidos como modelo del año 2027, junto a una versión híbrida Elantra Hybrid que debutará como modelo 2028. El sedán compacto adopta el rediseño ya mostrado en Corea del Sur como Avante, con una estética más clásica que abandona el lenguaje anguloso de la generación anterior. Hyundai todavía no ha confirmado potencias, equipamiento definitivo ni precios para el mercado estadounidense.",
+      "category": "lanzamientos",
+      "sourceName": "Motor1",
+      "sourceUrl": "https://motor1.com/news/815742/2027-hyundai-elantra-us-debut/",
+      "publishedAt": "2026-11-19T17:05:00Z"
+    },
+    {
+      "id": "audi-a4-e-tron-retraso-2029-2026-11",
+      "title": "Audi retrasa hasta 2029 el lanzamiento del A4 e-tron",
+      "summary": "Audi ha aplazado un año el estreno del A4 e-tron, su primera berlina eléctrica sobre la plataforma SSP de Volkswagen, que ahora no llegará hasta 2029. Según informaciones periodísticas, la marca alemana pidió cambios de última hora en el diseño, entre ellos un nuevo sistema eléctrico de 48 voltios, lo que ha retrasado el inicio de producción previsto en Ingolstadt. El retraso amplía el margen de maniobra de rivales como BMW y Mercedes-Benz en el segmento de berlinas eléctricas premium.",
+      "category": "lanzamientos",
+      "sourceName": "InsideEVs",
+      "sourceUrl": "https://insideevs.com/news/815433/audi-a4-ev-delayed-report/",
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "bmw-woodruff-planta-baterias-ix5-2026-11",
+      "title": "BMW abre en EE. UU. su primera planta de baterías para el nuevo iX5",
+      "summary": "BMW ha puesto en marcha su planta de montaje de baterías de Woodruff, en Carolina del Sur, donde ensambla los packs de alto voltaje de sexta generación del nuevo SUV eléctrico iX5. La instalación, situada cerca de la factoría de Spartanburg donde se fabrica el propio iX5, dará empleo a 300 personas y usará celdas cilíndricas suministradas por LG Energy Solution en Estados Unidos. Es la primera producción de baterías de BMW en suelo estadounidense para su nueva generación de eléctricos.",
+      "category": "manufactura",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.net/2026/11/16/bmw-eroeffnet-batteriemontage-fuer-den-neuen-bmw-ix5",
+      "publishedAt": "2026-11-16T09:00:00Z"
+    },
+    {
+      "id": "acura-nexera-vision-salon-los-angeles-2026-11",
+      "title": "Acura lleva su concept car Nexera Vision al Salón de Los Ángeles",
+      "summary": "Acura exhibe su prototipo Nexera Vision en el Salón del Automóvil de Los Ángeles, tras su primer debut en el Monterey Car Week de agosto. Es un cupé de dos puertas con puertas de apertura mariposa, iluminación oculta y aerodinámica activa, que la marca de Honda presenta como adelanto del lenguaje de diseño de sus próximos modelos, incluido el futuro RDX Hybrid. Acura no ha confirmado si el Nexera Vision llegará a producción ni ha desvelado datos de motorización.",
+      "category": "lanzamientos",
+      "sourceName": "Autocosmos México",
+      "sourceUrl": "https://noticias.autocosmos.com.mx/2026/11/17/salon-de-los-angeles-2026-acura-presentara-el-nexera-vision-y-nuevas-ediciones-especiales",
+      "publishedAt": "2026-11-17T10:00:00Z"
+    },
+    {
+      "id": "guangzhou-salon-2026-preview-debuts-2026-11",
+      "title": "El Salón de Guangzhou 2026 reunirá 1.106 vehículos y 115 estrenos",
+      "summary": "El Salón del Automóvil de Guangzhou, uno de los grandes escaparates del mercado chino, abrirá del 27 de noviembre al 6 de diciembre con 1.106 vehículos expuestos, de los que 115 serán presentaciones nuevas. Los organizadores señalan que 707 de esos modelos serán de nueva energía, lo que confirma el peso creciente de eléctricos e híbridos enchufables en la oferta china. La cifra de estrenos supera a la edición de 2025, que contó con 93 novedades entre 1.085 vehículos expuestos.",
+      "category": "mercado",
+      "sourceName": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/11/17/2026-guangzhou-auto-show-kick-off-nov-27-1106-vehicles/",
+      "publishedAt": "2026-11-17T08:00:00Z"
+    },
+    {
+      "id": "dacia-duster-valladolid-candidatura-2026-11",
+      "title": "Dacia se plantea trasladar parte de la producción del Duster a España",
+      "summary": "El responsable industrial de Dacia, Christophe Dridi, ha señalado la planta de Valladolid como la principal candidata para fabricar el Duster, argumentando que si esa fábrica ya produce el Renault Captur puede asumir también el SUV rumano. La propuesta surge por la pérdida de competitividad de la planta de Mioveni, en Rumanía, cuyo director ha advertido de que podría perder las próximas generaciones del Duster y el Bigster si no mejora su eficiencia. La decisión definitiva no se ha tomado todavía.",
+      "category": "manufactura",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/dacia-duster-produccion-valladolid-2026117712.html",
+      "publishedAt": "2026-11-18T14:00:00Z"
+    },
+    {
+      "id": "omoda-jaecoo-expansion-fabricas-europa-2026-11",
+      "title": "Omoda y Jaecoo aceleran su expansión industrial en Europa",
+      "summary": "Shawn Xu, consejero delegado internacional de Omoda y Jaecoo, ha explicado en una entrevista los planes del grupo Chery para reforzar su presencia en Europa mediante fábricas locales que permitan ganar volumen dentro de las nuevas exigencias comunitarias a los fabricantes chinos. El directivo ha avanzado un futuro modelo de acceso en torno a los 25.000 euros y ha confirmado que iCAUR, otra marca del grupo Chery, también llegará al continente, aunque sin fecha concreta todavía.",
+      "category": "manufactura",
       "sourceName": "Motor1 España",
-      "sourceUrl": "https://es.motor1.com/news/784614/novedades-2026-calendario-completo-meses/",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/088/546/images/4f07fd4677c95e405654e3ffdd25c5742639086f/DB2026AU00764_web_1600.jpg",
-      "imageCredit": "Foto: Volkswagen Newsroom"
+      "sourceUrl": "https://es.motor1.com/news/815488/shawn-xu-omoda-jaecoo-expansion/",
+      "publishedAt": "2026-11-15T13:00:00Z"
     },
     {
-      "id": "espana-oleada-estrenos-2026-09",
-      "title": "Las marcas preparan una oleada de estrenos en España antes de fin de año",
-      "summary": "Varios fabricantes adelantan el lanzamiento de nuevos modelos en el mercado español para cerrar 2026 con mejor cuota, un movimiento que ya está afectando a los precios de las gamas actuales. La estrategia coincide con la respuesta del sector europeo al avance de las marcas chinas en el continente.",
+      "id": "maserati-milano-autoclassica-2026-11",
+      "title": "Maserati combina patrimonio y gama actual en el Milano AutoClassica 2026",
+      "summary": "Maserati participa del 19 al 22 de noviembre en el salón de coches clásicos Milano AutoClassica, donde exhibe un 3500 GT Convertible Vignale Prototipo de 1959 recién restaurado junto al GranCabrio, su descapotable actual de gama alta. El expositor de la marca incluye además tres vehículos de la Collezione Maserati Umberto Panini de Módena, en una puesta en escena que une la herencia histórica de la firma con su oferta en producción.",
       "category": "lanzamientos",
-      "sourceName": "El Independiente",
-      "sourceUrl": "https://www.elindependiente.com/economia/2026/09/12/marcas-coches-aluvion-nuevos-modelos-espana-para-cerrar-2026/",
-      "publishedAt": "2026-09-12T07:30:00Z"
+      "sourceName": "Webwire (comunicado de Maserati)",
+      "sourceUrl": "https://www.webwire.com/ViewPressRel.asp?aId=364312",
+      "publishedAt": "2026-11-19T08:00:00Z"
     },
     {
-      "id": "vw-jlr-recortes-2026-09",
-      "title": "Volkswagen y Jaguar Land Rover aceleran los recortes de empleo en Europa",
-      "summary": "El consejo de supervisión de Volkswagen aprobó eliminar 50.000 puestos adicionales, que se suman a los recortes anunciados desde finales de 2024, al tiempo que reconvierte su planta de Osnabrück a producción de defensa para salvar cerca de 1.400 empleos. Jaguar Land Rover confirmó por su parte 4.000 despidos en dos años y fabricará el nuevo Range Rover Electric en las líneas ya existentes de Solihull.",
+      "id": "cupra-raval-plus-produccion-diciembre-2026-11",
+      "title": "CUPRA confirma la fabricación de la versión más económica del Raval",
+      "summary": "CUPRA ha confirmado que la versión Plus del Raval, con 135 CV y batería LFP homologada en 328 km WLTP, entrará en producción en diciembre en la planta de Martorell. Su precio queda por debajo de los 21.000 euros aplicando el Plan Auto+ y descuentos, frente a un precio de tarifa cercano a los 29.500 euros. La marca ya acumula más de 60.000 pedidos para la gama Raval.",
+      "category": "lanzamientos",
+      "sourceName": "Movilidad Eléctrica",
+      "sourceUrl": "https://movilidadelectrica.com/cupra-raval-plus-precio-autonomia-fabricacion-diciembre/",
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "renault-empleos-electricos-francia-2026-11",
+      "title": "Renault crea 2.000 empleos en Francia para ampliar su producción eléctrica",
+      "summary": "Renault va a incorporar unos 2.000 trabajadores en sus plantas francesas, entre ellas Douai y Maubeuge, para reforzar la fabricación de modelos eléctricos como el Renault 5 y el Kangoo E-Tech, mientras negocia alrededor de 1.000 salidas voluntarias entre personal técnico y de oficina. La compañía justifica el movimiento por el fuerte crecimiento de sus ventas eléctricas, que ya suponen más de una cuarta parte de sus matriculaciones de turismos.",
       "category": "manufactura",
-      "sourceName": "Automotive World",
-      "sourceUrl": "https://www.automotiveworld.com/intelligence-briefs/automotive-manufacturing-intelligence-brief-september-10-2026/",
-      "publishedAt": "2026-09-10T10:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://www.electrive.com/2026/11/17/renault-to-create-2000-new-jobs-in-ev-production/",
+      "publishedAt": "2026-11-17T00:00:00Z"
     },
     {
-      "id": "acea-260-plantas-2026-09",
-      "title": "La UE y el Reino Unido mantienen 260 plantas de montaje de automóviles",
-      "summary": "El mapa interactivo de la patronal europea ACEA contabiliza 260 fábricas de ensamblaje y producción de automóviles operativas en la Unión Europea y el Reino Unido, una fotografía de la capacidad industrial del sector en plena reestructuración por la transición eléctrica y la competencia china.",
+      "id": "scout-motors-vehiculos-prueba-carolina-2026-11",
+      "title": "Scout Motors empieza a construir sus primeros vehículos de prueba en Carolina del Sur",
+      "summary": "La marca de Volkswagen Scout Motors ha iniciado la fabricación de los primeros vehículos de validación en su nueva planta de Blythewood, Carolina del Sur, completada en torno al 85%. La fábrica, con una inversión de 2.000 millones de dólares, dará empleo a hasta 4.000 personas a pleno rendimiento, aunque las entregas a clientes de la SUV Traveler y la pickup Terra se retrasan ahora hasta 2028.",
       "category": "manufactura",
-      "sourceName": "ACEA",
-      "sourceUrl": "https://www.acea.auto/figure/interactive-map-automobile-assembly-and-production-plants-in-europe/",
-      "publishedAt": "2026-09-11T12:00:00Z"
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/13/vws-scout-brand-begins-production-of-first-test-vehicles-at-new-us-plant",
+      "publishedAt": "2026-11-13T00:00:00Z"
     },
     {
-      "id": "china-cuota-europa-2026-07",
-      "title": "Las marcas chinas rozan el 10% de cuota en Europa mientras BMW, Mercedes y Volkswagen recortan previsiones",
-      "summary": "Pese a los aranceles, los fabricantes chinos han ampliado su presencia en el mercado europeo hasta acercarse al 10% de cuota, apoyados en una ventaja de costes y en su oferta de software. En paralelo, BMW, Mercedes-Benz y Volkswagen han rebajado sus previsiones de beneficio para 2026 pese a que las ventas del sector suben.",
+      "id": "china-desplaza-produccion-mercosur-2026-11",
+      "title": "El avance de los coches chinos erosiona el comercio automotor entre Argentina y Brasil",
+      "summary": "La llegada masiva de vehículos importados desde China está desplazando a la producción regional del Mercosur y reduciendo el histórico intercambio comercial entre Argentina y Brasil. Según datos citados por medios argentinos, China ya superó a Argentina como principal origen de los autos importados por Brasil entre enero y octubre de 2026, y la proporción de coches brasileños frente a chinos vendidos en Argentina pasó de 10 a 1 en 2025 a apenas 2 a 1 este año.",
       "category": "mercado",
-      "sourceName": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/neilwinton/2026/07/09/european-new-car-sales-strong-but-china-reaping-the-benefits/",
-      "publishedAt": "2026-07-09T08:00:00Z"
+      "sourceName": "Perfil",
+      "sourceUrl": "https://perfil.com/economia/los-autos-chinos-desplazan-a-la-produccion-mercosur-y-golpean-la-industria-nacional-como-al-comercio-bilateral-con-brasil-aaOFD6t3z24s",
+      "publishedAt": "2026-11-12T22:48:00Z"
     },
     {
-      "id": "ventas-europa-h1-2026",
-      "title": "El mercado europeo de coches crece un 6,1% en el primer semestre",
-      "summary": "Las matriculaciones en Europa alcanzaron 7.232.066 unidades en el primer semestre de 2026, un 6,1% más que un año antes, con los eléctricos de batería llegando al 22,2% de las ventas. Volkswagen y Stellantis se mantuvieron como los grupos más vendidos, con Skoda, Toyota y BMW entre las marcas más fuertes.",
-      "category": "ventas",
-      "sourceName": "Best Selling Cars",
-      "sourceUrl": "https://www.best-selling-cars.com/europe/2026-june-first-half-europe-best-selling-car-manufacturers-and-brands/",
-      "publishedAt": "2026-07-05T09:00:00Z"
+      "id": "china-nev-primera-quincena-noviembre-2026",
+      "title": "Las ventas de eléctricos en China caen pero ganan peso sobre el total del mercado",
+      "summary": "Entre el 1 y el 15 de noviembre de 2026, los vehículos nuevos de energía (NEV) vendidos al público en China sumaron 447.000 unidades, un 13% menos que un año antes aunque un 7% más que en el mismo tramo de octubre. Pese a la caída interanual, su cuota sobre las ventas totales de turismos subió al 73,2%, por encima del máximo mensual histórico del 67,5% registrado en octubre completo, según datos de la CPCA recogidos por CnEVPost.",
+      "category": "asia",
+      "sourceName": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/11/18/china-nev-retail-1st-15-days-nov-2026/",
+      "publishedAt": "2026-11-18T00:00:00Z"
     },
     {
-      "id": "latam-ventas-2026-09",
-      "title": "Latinoamérica vende un 12% más de coches y México firma su mejor semestre desde 2005",
-      "summary": "La región comercializó 3.827.366 vehículos en los primeros siete meses de 2026, un 12,2% más que en 2025, con México en segundo lugar del ranking regional. Solo en el primer semestre, México vendió 754.394 vehículos ligeros nuevos, un 5,3% más interanual.",
-      "category": "ventas",
-      "sourceName": "El Tiempo Monclova",
-      "sourceUrl": "https://eltiempomx.com/noticia/2026/ventas-de-autos-crecen-en-latinoamerica-mexico-ocupa-el-segundo-lugar-regional.html",
-      "publishedAt": "2026-09-05T11:00:00Z"
+      "id": "euro7-entrada-vigor-2026-11",
+      "title": "La norma Euro 7 entra en vigor el 29 de noviembre para los coches nuevos",
+      "summary": "A partir del 29 de noviembre de 2026 los turismos y furgonetas que se homologuen por primera vez en la UE deberán cumplir la normativa Euro 7, que añade límites inéditos a las partículas de frenos y neumáticos y exige mayor durabilidad de baterías. La norma no es retroactiva: los coches ya matriculados no se ven afectados, y su aplicación a todo el mercado no llegará hasta el 29 de noviembre de 2027.",
+      "category": "mercado",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/actualidad/euro-7-regule-emisiones-no-significa-electrico-contamine-mas-2026117686.html",
+      "publishedAt": "2026-11-20T09:00:00Z"
     },
     {
-      "id": "brasil-mexico-produccion-2026-08",
-      "title": "Brasil prevé cerrar 2026 cerca de los 3 millones de matriculaciones",
-      "summary": "Brasil patentó 1.359.127 vehículos en el primer semestre de 2026, lo que ha llevado a fabricantes y concesionarios a revisar al alza sus previsiones anuales hacia un nivel no visto desde 2014. México, por su parte, produjo 969.294 unidades en el primer trimestre, un 0,5% más que un año antes.",
+      "id": "ford-farley-5-millones-2032",
+      "title": "Ford se marca el objetivo de vender 5 millones de coches al año en 2032",
+      "summary": "El consejero delegado de Ford, Jim Farley, planteó a la plantilla un objetivo de ventas anuales de 5 millones de vehículos para 2032, un 20% más que el volumen actual, según fuentes citadas por The Wall Street Journal. La meta se apoya en el lanzamiento de varios modelos asequibles por debajo de 40.000 dólares, entre ellos la futura pickup eléctrica Fathom, en un momento en que las entregas globales de la marca caen.",
+      "category": "mercado",
+      "sourceName": "Ford Authority",
+      "sourceUrl": "https://fordauthority.com/2026/11/ford-ceo-jim-farley-aiming-for-double-digit-sales-jump-by-2032/",
+      "publishedAt": "2026-11-20T08:00:00Z"
+    },
+    {
+      "id": "voyah-dream9-tailandia-2026-11",
+      "title": "Voyah, la marca premium de Dongfeng, debuta en Tailandia con el Dream 9",
+      "summary": "AI Mobility, filial del grupo AAS, presentó formalmente el 20 de noviembre la marca china Voyah en Tailandia, con el monovolumen de lujo Dream 9 como modelo principal en versiones eléctrica e híbrida enchufable. Las ventas comenzarán el 1 de diciembre en dos concesionarios de Bangkok, con precios estimados entre 2,59 y 3 millones de bahts y ocho años de garantía de batería.",
+      "category": "asia",
+      "sourceName": "The Nation Thailand",
+      "sourceUrl": "https://www.nationthailand.com/business/40072827",
+      "publishedAt": "2026-11-20T07:00:00Z"
+    },
+    {
+      "id": "byd-espana-segunda-planta-2026-11",
+      "title": "BYD mantiene a España entre los candidatos a su segunda fábrica europea",
+      "summary": "La vicepresidenta de BYD, Stella Li, confirmó que España sigue en la lista preseleccionada para la segunda planta de fabricación del grupo chino en Europa, aunque sin fecha ni ubicación decidida. La compañía da prioridad a la fábrica de Szeged, en Hungría, que arrancará antes de que termine el año, y prefiere adquirir una planta ya existente antes que construir una nueva.",
+      "category": "mercado",
+      "sourceName": "Movilidad Eléctrica",
+      "sourceUrl": "https://movilidadelectrica.com/segunda-fabrica-byd-europa/",
+      "publishedAt": "2026-11-12T10:00:00Z"
+    },
+    {
+      "id": "tesla-cybercab-venta-privada-2026-11",
+      "title": "Tesla abre la venta privada del Cybercab en EE. UU. con fuertes restricciones",
+      "summary": "Tesla ha empezado a vender su robotaxi Cybercab, sin volante ni pedales, a compradores particulares en cinco ciudades de Texas por 29.990 dólares, más una suscripción mensual de 299 dólares para activar la conducción autónoma. El contrato prohíbe usarlo en servicios de VTC o revenderlo sin permiso de Tesla, mientras la NHTSA sigue revisando si el vehículo cumple los estándares de seguridad federales al carecer de controles manuales.",
+      "category": "lanzamientos",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/16/tesla-cybercab-for-private-sale-comes-without-steering-wheel-but-with-restrictions",
+      "publishedAt": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "catl-intercambio-baterias-2026-11",
+      "title": "CATL aspira a liderar el intercambio de baterías en coches de pasajeros hacia 2027",
+      "summary": "El gigante chino de baterías CATL planea ampliar su red de estaciones de intercambio Choco-SEB a 297 ciudades en 2027, apoyado en un acuerdo con BAIC para fabricar más modelos compatibles. La compañía, que ya domina el intercambio de baterías en camiones en China, busca así adelantar a Nio, que actualmente opera más de 4.200 estaciones para coches de pasajeros.",
+      "category": "asia",
+      "sourceName": "Electrive",
+      "sourceUrl": "https://electrive.com/2026/11/16/catl-to-become-market-leader-in-passenger-car-battery-swapping",
+      "publishedAt": "2026-11-16T13:00:00Z"
+    },
+    {
+      "id": "bmw-san-luis-potosi-ajuste-turno-2026-11",
+      "title": "BMW ajusta un 2% su plantilla en San Luis Potosí y pasa a un solo turno",
+      "summary": "BMW confirmó un ajuste laboral equivalente al 2% de la plantilla en su planta mexicana de Villa de Reyes, San Luis Potosí, que desde noviembre opera temporalmente con un único turno de producción. La compañía prevé recuperar los dos turnos durante 2027 y, en paralelo, ha abierto procesos de contratación para personal técnico especializado. Organizaciones sindicales locales citadas por medios mexicanos elevan la cifra real de afectados por encima del dato oficial de la empresa.",
+      "category": "manufactura",
+      "sourceName": "Líder Empresarial",
+      "sourceUrl": "https://www.liderempresarial.com/planta-de-bmw-aclara-despidos-en-san-luis-potosi-y-anuncia-cierre-temporal-de-turno/",
+      "publishedAt": "2026-11-17T15:00:00Z"
+    },
+    {
+      "id": "gm-busqueda-sucesor-barra-2026-11",
+      "title": "General Motors contrata una consultora para buscar sucesor de Mary Barra",
+      "summary": "General Motors ha encargado a una firma de búsqueda de ejecutivos identificar candidatos externos para sucedir a su consejera delegada, Mary Barra, según adelantó The Wall Street Journal. La compañía valora también nombres internos, entre ellos el presidente Mark Reuss y el responsable de producto Sterling Anderson, procedente de Tesla. GM no ha confirmado plazos ni ha señalado que Barra tenga previsto dejar el cargo a corto plazo.",
+      "category": "mercado",
+      "sourceName": "GM Authority",
+      "sourceUrl": "https://gmauthority.com/blog/2026/11/gm-hires-firm-to-search-for-ceo-mary-barra-successor/",
+      "publishedAt": "2026-11-17T18:00:00Z"
+    },
+    {
+      "id": "europa-electricos-octubre-2026-estadisticas",
+      "title": "Los coches eléctricos superan el 32% de las matriculaciones en 18 mercados europeos en octubre",
+      "summary": "El boletín mensual de New AutoMotive y E-Mobility Europe sitúa la cuota de los eléctricos de batería en el 32,1% de las matriculaciones de octubre en 18 mercados europeos, un 60,9% más que en el mismo mes de 2025. En lo que va de año, esos mercados acumulan 2,33 millones de matriculaciones eléctricas, un 40,7% más que en el mismo periodo de 2025. El informe no coincide exactamente con las cifras que publica ACEA para el conjunto de la Unión Europea, ya que ambas fuentes cubren países distintos.",
       "category": "estadisticas",
-      "sourceName": "Tecnom",
-      "sourceUrl": "https://tecnom.ai/blog/mercado-automotriz-mexico-2026",
-      "publishedAt": "2026-08-20T10:00:00Z"
+      "sourceName": "EV Infrastructure News",
+      "sourceUrl": "https://www.evinfrastructurenews.com/emobility/europe-adds-300-000-bevs-in-october-up-60-yoy",
+      "publishedAt": "2026-11-19T09:00:00Z"
     },
     {
-      "id": "china-supera-japon-europa-2026-09",
-      "title": "Las marcas chinas superan por primera vez a las japonesas en ventas en Europa",
-      "summary": "En mayo, los fabricantes chinos vendieron en Europa más coches de pasajeros que sus rivales japoneses por primera vez, impulsados por el fuerte desempeño internacional de BYD. El adelantamiento confirma el rápido avance de las marcas chinas en un mercado donde Japón llevaba décadas como referencia.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/chinese-automakers-overtake-japanese-rivals-in-europe-despite-ev-tariffs",
-      "publishedAt": "2026-09-09T06:00:00Z"
-    },
-    {
-      "id": "china-hibridos-japon-2026-09",
-      "title": "China desafía a Japón en híbridos, su terreno tradicional",
-      "summary": "Los fabricantes chinos están impulsando modelos híbridos para disputar a las marcas japonesas un segmento que estas dominaban desde hace años, en un giro estratégico dentro de la competencia asiática por la electrificación. El movimiento se suma al avance chino en baterías e inteligencia artificial aplicada al vehículo.",
-      "category": "asia",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/automobiles/china-bets-on-hybrid-vehicles-in-challenge-to-japan-s-global-lead",
-      "publishedAt": "2026-09-11T06:30:00Z"
-    },
-    {
-      "id": "eeuu-aranceles-coste-2026-09",
-      "title": "Los aranceles a los coches ya han costado 30.000 millones de dólares a los fabricantes en EE. UU.",
-      "summary": "Los gravámenes sobre vehículos importados y componentes han encarecido el precio medio de los automóviles en Estados Unidos un 10,4%, con subidas de hasta 8.900 dólares en modelos importados. Fabricantes y proveedores ya preparan su respuesta a nuevas decisiones arancelarias previstas para lo que resta de año.",
+      "id": "peugeot-stellantis-futuro-wec-hypercar-2026-11",
+      "title": "Dudas sobre el futuro de Peugeot en el Mundial de Resistencia antes del plazo de inscripción",
+      "summary": "Medios especializados como Motorsport-Total y Autosport informan de que Peugeot podría poner fin a su programa Hypercar en el Mundial de Resistencia (WEC) con efecto inmediato, justo antes del plazo de inscripción para la temporada 2027, que vence el 23 de noviembre. Stellantis ha confirmado que ha mantenido reuniones extraordinarias sobre el proyecto, pero no ha confirmado ni desmentido una posible retirada. El grupo arrastra fuertes cargos de reestructuración desde 2025, lo que alimenta la incertidumbre sobre sus programas deportivos.",
       "category": "mercado",
+      "sourceName": "Autosport",
+      "sourceUrl": "https://www.autosport.com/wec/news/-is-peugeot-ending-its-wec-hypercar-programme-with-immediate-effect/10875669/",
+      "publishedAt": "2026-11-19T20:00:00Z"
+    },
+    {
+      "id": "jdpower-previsiones-ventas-eeuu-2026-11",
+      "title": "J.D. Power prevé un noviembre récord en precios para el mercado estadounidense",
+      "summary": "J.D. Power y GlobalData estiman que las ventas de vehículos nuevos en Estados Unidos crecerán un 1,2% en noviembre respecto al año anterior, ajustado por días laborables. La consultora calcula que el precio medio de transacción alcanzará un máximo histórico para el mes, en torno a 47.154 dólares, impulsado por mayores incentivos de los fabricantes. J.D. Power advierte de que la tensión entre asequibilidad y volumen de ventas sigue marcando el mercado.",
+      "category": "ventas",
       "sourceName": "CBT News",
-      "sourceUrl": "https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/",
-      "publishedAt": "2026-09-02T14:00:00Z"
+      "sourceUrl": "https://www.cbtnews.com/nov-new-vehicle-sales-to-rise/",
+      "publishedAt": "2026-11-19T16:00:00Z"
+    },
+    {
+      "id": "vw-troc-r-estreno-2026-11",
+      "title": "Volkswagen presenta el T-Roc R, su SUV compacto más potente",
+      "summary": "Volkswagen ha lanzado el T-Roc R, la versión de altas prestaciones de su SUV compacto, con 333 CV, tracción total 4MOTION y mecánica mild-hybrid de 48 voltios sobre el bloque EA888 evo5. La marca lo presenta como el SUV más potente de su gama europea, con una aceleración de 0 a 100 km/h en unos 5 segundos. Las preventas en Alemania comenzaron el 19 de noviembre desde 59.995 euros.",
+      "category": "lanzamientos",
+      "sourceName": "Volkswagen Newsroom",
+      "sourceUrl": "https://www.volkswagen-newsroom.com/en/press-releases/born-on-the-racetrack-volkswagen-presents-the-t-roc__r-with-333-ps-20870",
+      "publishedAt": "2026-11-18T09:00:00Z"
+    },
+    {
+      "id": "genesis-gv80-g80-hibridos-2026-11",
+      "title": "Genesis entra en el mercado híbrido de EE. UU. con el GV80 y el G80",
+      "summary": "Genesis presentó en un evento en Los Ángeles su nuevo sistema de propulsión híbrido, con el que debutan el GV80 Hybrid y el G80 Hybrid. Se trata de la primera incursión de la marca premium de Hyundai en motorizaciones híbridas para el mercado estadounidense, después de haber apostado inicialmente solo por eléctricos. La marca no ha concretado todavía precios, acabados ni fecha exacta de comercialización.",
+      "category": "lanzamientos",
+      "sourceName": "InsideEVs",
+      "sourceUrl": "https://insideevs.com/news/816122/genesis-gv80-and-g80-hybrids/",
+      "publishedAt": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "honda-base-station-la-auto-show-2026-11",
+      "title": "Honda muestra en Los Ángeles su remolque-vivienda eléctrico Base Station",
+      "summary": "Honda exhibió por primera vez en público su prototipo Base Station, un remolque habitable pensado para acompañar a vehículos eléctricos, en el Salón de Los Ángeles que abrió sus puertas el 20 de noviembre. El concepto, revelado inicialmente en enero, incorpora baterías de litio y paneles solares y pesa menos de 635 kilos, pudiendo ser remolcado por modelos como el CR-V o el Prologue. Honda lo describe como un prototipo con vocación de producción, aunque todavía sin fecha ni compromiso de fabricación.",
+      "category": "lanzamientos",
+      "sourceName": "PickupTruckTalk",
+      "sourceUrl": "https://pickuptrucktalk.com/2026/11/honda-base-station-la-auto-show-public-debut/",
+      "publishedAt": "2026-11-20T18:00:00Z"
+    },
+    {
+      "id": "vw-ig-metall-negociacion-salarial-2026-11",
+      "title": "Volkswagen e IG Metall abren el 24 de noviembre la negociación salarial clave para sus plantas alemanas",
+      "summary": "Volkswagen y el sindicato IG Metall inician el 24 de noviembre en Emden la ronda de negociación colectiva para sus fábricas alemanas, con una segunda sesión prevista el 15 de diciembre en Zwickau. La empresa pide congelar los salarios durante dos años, recortar bonificaciones y ganar flexibilidad horaria para abaratar costes ante la caída de ventas en China y la presión arancelaria. El sindicato reclama una subida del 5% y advierte de posibles huelgas a partir de enero si no hay acuerdo.",
+      "category": "manufactura",
+      "sourceName": "EuropaWire",
+      "sourceUrl": "https://news.europawire.eu/volkswagen-ag-proposes-two-year-pay-freeze-and-labor-cost-reductions-ahead-of-ig-metall-talks/eu-press-release/2026/11/20/17/44/06/188912/",
+      "publishedAt": "2026-11-20T17:44:06Z"
+    },
+    {
+      "id": "china-nev-cuota-record-concesionarios-2026-11",
+      "title": "China roza el 73% de cuota de eléctricos e híbridos enchufables mientras los concesionarios entran en 'modo supervivencia'",
+      "summary": "La cuota conjunta de vehículos eléctricos e híbridos enchufables en el mercado chino alcanzó el 73,2% en la primera quincena de noviembre, según datos recopilados por CarNewsChina. La asociación de concesionarios CADA registró en ese mismo periodo una caída del 14,5% en el tráfico de clientes y un desplome del 36,6% en los nuevos pedidos, pese a las promociones de la campaña 'Double 11'. BYD, Geely Galaxy, Leapmotor y Xiaomi encabezaron los registros semanales por marca.",
+      "category": "asia",
+      "sourceName": "CarNewsChina",
+      "sourceUrl": "https://carnewschina.com/2026/11/19/nev-market-share-reached-73-2-in-china-as-the-industry-entered-survival-phase/",
+      "publishedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "denza-b5-remolca-boeing-747-2026-11",
+      "title": "El SUV híbrido Denza B5, de BYD, remolca un Boeing 747 apoyado solo en dos ruedas",
+      "summary": "El SUV híbrido enchufable Denza B5 (vendido en China como Bao 5), marca del grupo BYD, remolcó un Boeing 747-400 retirado de unas 180 toneladas sosteniéndose solo sobre dos ruedas, en una demostración realizada en el aeródromo británico de Dunsfold. El fabricante repitió la prueba en varias tandas hasta remolcar el avión durante 1.600 metros y la presentó como la primera vez que un coche de producción logra esta maniobra con tracción eléctrica, en referencia a una hazaña similar que Volkswagen realizó con un Touareg en el mismo lugar en 2006.",
+      "category": "asia",
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/18/byds-luxury-suv-pulls-400000-lb-jumbo-jet-on-two-wheels-video/",
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "polestar-red-comercial-alemania-2026-11",
+      "title": "Polestar duplica su red comercial en Alemania hasta 18 ubicaciones",
+      "summary": "La marca eléctrica sueca amplía su presencia en Alemania a 18 puntos de venta y servicio, con nuevos espacios abiertos en Mannheim, Dresde y Bielefeld y un concesionario adicional que sumará ventas a su actividad de posventa. Polestar busca así acercarse a más clientes fuera de las grandes ciudades, duplicando la red que tenía a comienzos de 2025.",
+      "category": "mercado",
+      "sourceName": "ecomento.de",
+      "sourceUrl": "https://ecomento.de/2026/11/18/polestar-baut-vertriebsnetz-auf-18-standorte-in-deutschland-aus/",
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "akio-toyoda-nuevo-rol-toyota-2026-11",
+      "title": "Akio Toyoda, a sus 70 años, se vuelca en formar a la nueva generación de Toyota",
+      "summary": "El presidente del consejo de Toyota asumirá a partir del 1 de enero de 2027 la dirección de un nuevo grupo interno de filosofía y formación, pensado para transmitir directamente su forma de trabajar a futuros directivos de la compañía. Toyoda, que ya cedió la presidencia ejecutiva en 2023, reconoce que el tiempo que le queda al frente de responsabilidades es limitado.",
+      "category": "asia",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/akio-toyoda-nuevo-reto-toyota-2026117704.html",
+      "publishedAt": "2026-11-18T10:00:00Z"
+    },
+    {
+      "id": "jlr-defender-sport-electrico-2027",
+      "title": "Land Rover confirma el Defender Sport eléctrico para 2027",
+      "summary": "JLR confirmó, al presentar sus resultados del segundo trimestre fiscal, que fabricará un Defender Sport totalmente eléctrico a partir de 2027 en su planta de Halewood (Reino Unido), junto al Range Rover. El modelo se situará por debajo del actual Defender 90 y usará la plataforma EMA, compartida con el Range Rover GT, aunque la marca aún no ha dado datos de potencia, batería ni autonomía. Las primeras entregas en Europa no llegarían hasta finales de 2027 o principios de 2028.",
+      "category": "lanzamientos",
+      "sourceName": "TestCoches",
+      "sourceUrl": "https://testcoches.es/noticias/es-oficial-el-defender-sport-electrico-llega-en-2027-sera-el-unico-defender-electrico-hasta-la-proxima-generacion/",
+      "publishedAt": "2026-11-13T10:00:00Z"
+    },
+    {
+      "id": "xiaomi-coches-preventa-emiratos-arabes",
+      "title": "Xiaomi empieza a vender sus coches eléctricos fuera de China por primera vez, en Emiratos Árabes Unidos",
+      "summary": "Xiaomi ha abierto en Emiratos Árabes Unidos la preventa de sus modelos SU7, YU7 y Skynomad, su primera venta oficial fuera de China, a través del distribuidor Gargash y con garantía local de cinco años. Las primeras entregas llegarán en diciembre de 2026, mientras que otras versiones se retrasan a febrero de 2027. La marca ya firmó en septiembre acuerdos preliminares con ocho grupos de concesionarios alemanes de cara a su entrada en Europa, prevista para 2027.",
+      "category": "asia",
+      "sourceName": "MundoXiaomi",
+      "sourceUrl": "https://www.mundoxiaomi.com/noticias/primer-pais-donde-se-pueden-comprar-oficialmente-coches-xiaomi-fuera-china-no-europa-tienen-garantia-cinco-anos",
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "cupra-supera-seat-ventas-europa-2026-11",
+      "title": "Cupra supera a SEAT en ventas europeas por primera vez en lo que va de año",
+      "summary": "Según datos de Dataforce recogidos por la prensa italiana, Cupra vendió 223.914 coches en Europa entre enero y septiembre de 2026, frente a los 155.777 de SEAT, su marca matriz dentro del grupo Volkswagen. La cifra confirma el adelantamiento de la marca deportiva y alimenta las dudas sobre el papel futuro de SEAT, mientras Cupra avanza hacia una gama cada vez más electrificada.",
+      "category": "mercado",
+      "sourceName": "AlVolante",
+      "sourceUrl": "https://www.alvolante.it/news/cupra-corre-troppo-e-ora-seat-rischia-davvero-sparire-422091",
+      "publishedAt": "2026-11-18T10:00:00Z"
+    },
+    {
+      "id": "audi-circular-solutions-subsidiaria-2026-11",
+      "title": "Audi crea una filial dedicada a la economía circular",
+      "summary": "Audi ha constituido Audi Circular Solutions GmbH, una nueva sociedad centrada en convertir la economía circular en un modelo de negocio propio dentro de la marca. La iniciativa busca aprovechar materiales reciclados y procesos de reutilización como fuente de ingresos adicional, en un momento en que el fabricante alemán refuerza sus medidas de competitividad tras unos primeros nueve meses de año complicados.",
+      "category": "manufactura",
+      "sourceName": "Audi Media",
+      "sourceUrl": "https://www.audi.com/en/media-releases/audi-circular-solutions-gmbh-makes-the-circular-economy-a-business-model-18442",
+      "publishedAt": "2026-11-13T09:00:00Z"
+    },
+    {
+      "id": "bmw-neue-klasse-produccion-china-ix3-2026-11",
+      "title": "BMW arranca en China la producción local del iX3 de la Neue Klasse",
+      "summary": "BMW ha puesto en marcha en su planta de Shenyang la producción local del iX3, el primer modelo basado en la nueva arquitectura Neue Klasse fabricado en China. El lanzamiento llega en un contexto difícil para la marca en el gigante asiático, donde sus entregas cayeron casi un 25% en el tercer trimestre de 2026. La misma planta de Shenyang también fabrica las baterías de sexta generación que equipará este modelo.",
+      "category": "asia",
+      "sourceName": "ChinaEVHome",
+      "sourceUrl": "https://chinaevhome.com/2026/11/16/bmw-kicks-off-neue-klasse-production-in-china-with-locally-made-ix3/",
+      "publishedAt": "2026-11-16T08:00:00Z"
+    },
+    {
+      "id": "acea-matriculaciones-ue-octubre-2026",
+      "title": "La UE matricula un 2,6% más de coches en octubre y los eléctricos rozan el 30% de cuota",
+      "summary": "La patronal europea ACEA registró 939.447 matriculaciones de turismos nuevos en la Unión Europea en octubre de 2026, un 2,6% más que un año antes. Los coches 100% eléctricos sumaron 279.799 unidades, un 61,4% más, y alcanzaron el 29,8% del mercado mensual. En lo que va de año, las matriculaciones acumulan un alza del 5,4% y los eléctricos ya representan el 23,4% de las ventas.",
+      "category": "estadisticas",
+      "sourceName": "ACEA",
+      "sourceUrl": "https://www.acea.auto/pc-registrations/new-car-registrations-5-4-in-october-2026-year-to-date-battery-electric-23-4-market-share/",
+      "publishedAt": "2026-11-24T10:00:00Z"
+    },
+    {
+      "id": "gm-nasdaq-cotizacion-2026-11",
+      "title": "General Motors deja la Bolsa de Nueva York tras 115 años y pasa a cotizar en el Nasdaq",
+      "summary": "General Motors trasladó la cotización de sus acciones desde la Bolsa de Nueva York (NYSE) al Nasdaq Global Select Market el 17 de noviembre de 2026, manteniendo el símbolo GM. La compañía justificó el cambio por su apuesta tecnológica y por unas comisiones de cotización más bajas en el Nasdaq. El movimiento también abre la puerta, sin garantizarla, a la inclusión de GM en el índice Nasdaq-100.",
+      "category": "mercado",
+      "sourceName": "GM Authority",
+      "sourceUrl": "https://gmauthority.com/blog/2026/11/gm-switching-from-nyse-to-nasdaq-today/",
+      "publishedAt": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "dacia-spring-precio-espana-2026-11",
+      "title": "El nuevo Dacia Spring llega a España con una versión por debajo de los 20.000 euros",
+      "summary": "Dacia ha publicado los precios en España de la nueva generación del Spring, cuya versión más equipada se queda por debajo de los 20.000 euros y cuyo acabado de acceso podría rondar los 10.000 euros aplicando ayudas y descuentos. El modelo mantiene su posicionamiento como uno de los eléctricos más económicos de Europa, con una variante de cuatro plazas y hasta 265 km de autonomía homologada.",
+      "category": "lanzamientos",
+      "sourceName": "Motor.es",
+      "sourceUrl": "https://www.motor.es/noticias/dacia-spring-precios-espana-2026117571.html",
+      "publishedAt": "2026-11-13T09:00:00Z"
+    },
+    {
+      "id": "china-turismos-caida-noviembre-2026",
+      "title": "Las matriculaciones de turismos en China caen un 25% en la primera quincena de noviembre",
+      "summary": "Las ventas al por menor de automóviles de pasajeros en China retrocedieron un 25% interanual en los primeros quince días de noviembre de 2026, hasta 611.000 unidades, según datos del sector. El dato contrasta con el avance de los vehículos eléctricos e híbridos enchufables, que siguen ganando cuota, y refleja una ralentización general del mercado chino más amplia que la del segmento eléctrico.",
+      "category": "asia",
+      "sourceName": "China EV Home",
+      "sourceUrl": "https://chinaevhome.com/2026/11/18/china-passenger-car-retail-sales-fall-25-yoy-to-611k-in-first-half-of-november/",
+      "publishedAt": "2026-11-18T08:00:00Z"
+    },
+    {
+      "id": "eu-cupos-importacion-hibridos-2026-11",
+      "title": "La UE impone cupos provisionales a la importación de coches híbridos",
+      "summary": "La Comisión Europea aprobó el 24 de noviembre cupos provisionales a la importación de vehículos híbridos (HEV, PHEV y microhíbridos), que entrarán en vigor el 1 de diciembre y estarán vigentes durante 200 días. La medida se aplica a todos los países cuyas exportaciones a la UE superen el 2% del total, con cupos específicos para China y Japón, y exime a mercados como Noruega, Islandia o Ucrania. Fabricantes europeos muy expuestos a los híbridos, como Renault, vieron subir su cotización en bolsa tras el anuncio.",
+      "category": "mercado",
+      "sourceName": "Comisión Europea",
+      "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/es/ip_26_2564",
+      "publishedAt": "2026-11-24T11:00:00Z"
+    },
+    {
+      "id": "byd-ineos-hambach-francia-2026-11",
+      "title": "BYD negocia la compra de la planta de Ineos en Hambach para su segunda fábrica europea",
+      "summary": "BYD ha entrado en negociaciones en exclusiva con Ineos Automotive para adquirir su fábrica de Hambach, en el este de Francia, lo que supondría su segunda planta de producción en la Unión Europea tras la de Szeged, en Hungría. El acuerdo, aún sujeto a consulta con los comités de empresa, no concreta todavía qué modelos se fabricarían ni cuándo arrancaría la producción. Ineos, que emplea a cerca de mil personas en la planta, prevé trasladar la fabricación de su todoterreno Grenadier a Estados Unidos para esquivar los aranceles.",
+      "category": "manufactura",
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
+      "publishedAt": "2026-11-24T15:00:00Z"
+    },
+    {
+      "id": "ue-retraso-voto-conduccion-autonoma-tesla-2026-11",
+      "title": "La UE retrasa hasta el 15 de diciembre el voto sobre la conducción asistida de Tesla",
+      "summary": "El comité comunitario que debe autorizar a escala de toda la UE el sistema de conducción asistida de Tesla ha retrasado de nuevo su votación, ahora prevista para el 15 de diciembre en lugar del 1 de diciembre. La aprobación necesita el respaldo de al menos 15 países que representen el 65% de la población del bloque y, de no lograrse, los conductores de los países que ya pagan por el sistema podrían perderlo. Italia había autorizado el sistema a nivel nacional apenas unos días antes, el 20 de noviembre.",
+      "category": "mercado",
+      "sourceName": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+      "publishedAt": "2026-11-25T09:00:00Z"
+    },
+    {
+      "id": "hyundai-kia-ventas-europa-octubre-2026",
+      "title": "Hyundai y Kia se distancian en Europa: Kia sube un 16% y Hyundai cae un 19% en octubre",
+      "summary": "Las matriculaciones de Hyundai en Europa cayeron un 18,8% en octubre, hasta 33.245 unidades, mientras que las de Kia subieron un 15,7%, hasta 46.760, según datos de ACEA recogidos por la prensa surcoreana. Entre ambas marcas suman una cuota conjunta del 7,1% del mercado europeo, siete décimas menos que un año antes, en un mercado que en conjunto creció un 3,4%. La propia Hyundai atribuye su retroceso al envejecimiento de su gama y a la competencia de las marcas chinas, mientras prepara el relevo del i10 por el Ioniq 3.",
+      "category": "ventas",
+      "sourceName": "The Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/business/companies/20261124/hyundai-kias-europe-sales-fall-17-in-october-amid-chinese-competition",
+      "publishedAt": "2026-11-24T08:00:00Z"
+    },
+    {
+      "id": "pentagono-gm-ford-drones-militares-2026-11",
+      "title": "El Pentágono negocia con GM y Ford su entrada en la producción de drones militares",
+      "summary": "El Departamento de Defensa de Estados Unidos mantiene conversaciones con General Motors y Ford para que ambos fabricantes suministren componentes como motores, actuadores, sensores o lidar destinados a la producción masiva de drones militares, según informó primero The Wall Street Journal. Ninguna de las dos compañías ha cerrado un acuerdo todavía: GM señaló que su división GM Defense tiene capacidad para ello, mientras que Ford confirmó conversaciones sobre vehículos militares especializados y satélites avanzados. El movimiento se suma a los esfuerzos de varios fabricantes por diversificar su negocio hacia la industria de defensa.",
+      "category": "mercado",
+      "sourceName": "Fox Business (Reuters)",
+      "sourceUrl": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production",
+      "publishedAt": "2026-11-24T18:00:00Z"
+    },
+    {
+      "id": "stellantis-demanda-unifor-brampton-2026-11",
+      "title": "Stellantis demanda al sindicato Unifor por bloquear el acceso a su planta de Brampton",
+      "summary": "Stellantis presentó el 19 de noviembre una demanda contra el sindicato canadiense Unifor ante el Tribunal Superior de Ontario, al considerar que sus representantes han bloqueado el acceso a la planta inactiva de Brampton e impedido la evaluación medioambiental necesaria para completar su venta a la empresa de vehículos blindados Roshel. La compañía pide una orden judicial que obligue a cesar el bloqueo y que se declare que el sindicato incurrió en allanamiento, mientras que Unifor defiende su protesta como una defensa de empleos canadienses y rechaza la venta de la planta. En paralelo, el gobierno canadiense mantiene conversaciones con Stellantis después de notificarle un incumplimiento de su acuerdo de financiación de 529 millones de dólares canadienses para las plantas de Brampton y Windsor.",
+      "category": "manufactura",
+      "sourceName": "BNN Bloomberg",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/stellantis-suing-unifor-accuses-union-of-blocking-access-to-brampton-plant/",
+      "publishedAt": "2026-11-24T12:00:00Z"
     }
   ]
 }
